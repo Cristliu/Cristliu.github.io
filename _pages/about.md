@@ -55,4 +55,4 @@ My research interest includes neural machine translation and computer vision. I 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 # 💻 Services
-- *2024.02*, Liu reviewed 2 papers as a reviewer for the IJCAI 2024.
+- *2024.02*, Liu reviewed 2 papers for the IJCAI 2024.
