@@ -19,6 +19,7 @@ redirect_from:
 
 Zhihuang Liu is a Ph.D. candidate at National University of Defense Technology (NUDT).
 <!-- He has published over 10 research papers, including in *IEEE Symposium on Security and Privacy (S\&P)*, *IEEE Transactions on Information Forensics and Security (TIFS)*, and *Future Generation Computer Systems (FGCS)*. He also serves as reviewer for IJCAI, AAAI, TSMC, JPDC, etc. -->
+
 **Research interests**: Privacy Protection, Applied Cryptography, Blockchain, Usable Security, and Large Language Models.
 
 
