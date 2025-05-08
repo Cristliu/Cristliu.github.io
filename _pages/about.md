@@ -17,42 +17,87 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+Zhihuang Liu is a Ph.D. candidate at National University of Defense Technology (NUDT).
+<!-- He has published over 10 research papers, including in *IEEE Symposium on Security and Privacy (S\&P)*, *IEEE Transactions on Information Forensics and Security (TIFS)*, and *Future Generation Computer Systems (FGCS)*. He also serves as reviewer for IJCAI, AAAI, TSMC, JPDC, etc. -->
+**Research interests**: Privacy Protection, Applied Cryptography, Blockchain, Usable Security, and Large Language Models.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- 2025.03: One paper has been accepted by IEEE Transactions on Circuits and Systems for Video Technology (CCF B, SCI, JCR Q1, 中科院一区TOP).
+- 2025.03: One paper has been accepted by IEEE Transactions on Big Data (CCF C, SCI, JCR Q1, 中科院二区).
+- 2024.12: Awarded the Ourstanding Student of NUDT.
+- 2024.12: Awarded China National Scholarship for PhD Students.
+- 2024.09: One paper has been accepted by **IEEE Symposium on Security and Privacy (S\&P'25) <font color="#dd0000">(Top Computer Security Conference, CCF A)</font>**. 
+- 2024.08: One paper has been accepted by International Conference on Neural Information Processing (CCF C).
+- 2024.04: One paper has been accepted by **IEEE Transactions on Information Forensics and Security <font color="#dd0000">(CCF A, SCI, JCR Q1, 中科院一区TOP)</font>**. 
+- 2023.12: One paper has been accepted by Future Generation Computer Systems (FGCS) (CCF C, SCI, JCR Q1, 中科院一区TOP).
 
-# 📝 Publications 
+# 📝 Selected Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE S&P'25</div><img src='images/SP25.bmp' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+**Prevalence Overshadows Concerns? Understanding Chinese Users’ Privacy Awareness and Expectations Towards LLM-based Healthcare Consultation**
+<font color="#006600">**<font color="#006600">Zhihuang Liu</font>**, Ling Hu, Tongqing Zhou, Yonghao Tang, Zhiping Cai\*</font>
+The 46th IEEE Symposium on Security and Privacy (S&P'25)
+[[Paper]](https://www.computer.org/csdl/proceedings-article/sp/2025/223600a092/22K50ou6sKY)   [[Project]](http://healthllm.top/LLMHPri/encindexen/) [[Code]](https://github.com/Cristliu/LLMHealthPrivacy_UserStudy)
+- This paper contributes the first user study (n=846) in China on privacy awareness and expectations in LLM-based healthcare consultations.
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIFS</div><img src='images/TIFS.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**SeCoSe: Toward Searchable and Communicable Healthcare Service Seeking in Flexible and Secure EHR Sharing**
+<font color="#006600">**<font color="#006600">Zhihuang Liu</font>**, Ling Hu, Zhiping Cai, Ximeng Liu, and Yanhua Liu\*</font>
+IEEE Transactions on Information Forensics and Security
+[[Paper]](https://ieeexplore.ieee.org/document/10506668)   [[Project]](https://cristliu.github.io/) [[Code]](https://cristliu.github.io/)
+- This Paper proposes a searchable and communicable proactive healthcare service seeking scheme (SeCoSe) in a blockchain-based EHR sharing system.
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">FGCS</div><img src='images/FGCS.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Blockchain and trusted reputation assessment-based incentive mechanism for healthcare services**
+<font color="#006600">Yanhua Liu, **<font color="#006600">Zhihuang Liu</font>**, Qiu Zhang, Jinshu Su, Zhiping Cai, and Xiaoyan Li\*</font>
+Future Generation Computer Systems
+[[Paper]](https://www.sciencedirect.com/science/article/pii/S0167739X23004843)   [[Project]](https://cristliu.github.io/) [[Code]](https://cristliu.github.io/)
+- This Paper proposes a Blockchain and trusted Reputation assessment-based Incentive mechanism for healthcare services (BtRaI).
+
+</div>
+</div>
+
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- [2024.12] Outstanding Student, National University of Defense Technology. (优秀学员)
+- [2024.12] National Scholarship, Ministry of Education, China. (博士研究生国家奖学金)
+- [2024.08] Excellent Master Thesis, Fuzhou University. (优秀硕士论文)
+- [2023.08] Special Award in Master Comprehensive Scholarship, Fuzhou University. (硕士综合学业奖学金特等奖)
+- [2023.06] Excellent Graduate, Fuzhou University. (优秀毕业生)
+- [2023.02] Third Prize (National), CCF Big Data & Computing Intelligence Contest. (CCF大数据与计算智能大赛全国三等奖)
+- [2022.11] National Scholarship, Ministry of Education, China. (硕士研究生国家奖学金)
+- [2020.12] Special Award for Outstanding New Student Scholarship, Fuzhou University. (优秀新生特等奖学金)
+- [2020.10] Third Prize (National), China Collegiate Computig Contest. (中国高校计算机大赛三等奖)
+- [2020.06] Excellent Graduate, Fuzhou University. (优秀毕业生)
+- [2019.12] First Prize (National), CCF Big Data & Computing Intelligence Contest. (CCF大数据与计算智能大赛全国一等奖)
+
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.09 - now*, Ph.D. Candidate, National University of Defense Technology, Changsha, China.
+- *2020.09 - 2023.06*, Master, Fuzhou University, Fuzhou, China.
+- *2016.09 - 2020.06*, Bachelor, Fuzhou University, Fuzhou, China.
 
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2024.09*, Excellent Doctoral Student Forum, Xiamen, Organized by Xiamen University.
+
 
 # 💻 Services
-- *2024.02*, Liu reviewed 2 papers for the IJCAI 2024.
+- Reviewer for IJCAI, AAAI, CVPR
+- Reviewer for TSMC, JPDC, SuperComputing
+
+# 💡 Contact
+<img src='images/lzh_wechat.png' alt="sym" width="100%">
