@@ -86,6 +86,18 @@ Future Generation Computer Systems
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT</div><img src='images/TCSVT.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**PPIDM: Privacy-Preserving Inference for Diffusion Model in the Cloud**
+<font color="#006600">Zhangdong Wang, <span style="font-weight:bold">Zhihuang Liu</span>, Yuanjing Luo, Tongqing Zhou, Jiaohua Qin, and Zhiping Cai*</font>
+IEEE Transactions on Circuits and Systems for Video Technology
+[[Paper]](https://ieeexplore.ieee.org/document/10937222)   [[Project]](https://cristliu.github.io/) [[Code]](https://cristliu.github.io/)
+- This paper proposes PPIDM (Privacy-Preserving Inference for Diffusion Models), a novel framework for diffusion model inference in cloud environments that mitigates both resource constraints and privacy risks.
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TETC</div><img src='images/TETC.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
