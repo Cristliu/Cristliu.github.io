@@ -39,8 +39,8 @@ Zhihuang Liu is a Ph.D. candidate at National University of Defense Technology (
 <div class='paper-box-text' markdown="1">
 
 **Prevalence Overshadows Concerns? Understanding Chinese Users’ Privacy Awareness and Expectations Towards LLM-based Healthcare Consultation**
-<font color="#006600" style="font-weight:bold">Zhihuang Liu</font>, <font color="#006600">Ling Hu, Tongqing Zhou, Yonghao Tang, Zhiping Cai*</font>
-The 46th IEEE Symposium on Security and Privacy (S&P'25)
+<font color="#006600"><span style="font-weight:bold">Zhihuang Liu*</span>, Ling Hu, Tongqing Zhou, Yonghao Tang, Zhiping Cai*</font>
+The 46th IEEE Symposium on Security and Privacy (S&P25)
 [[Paper]](https://www.computer.org/csdl/proceedings-article/sp/2025/223600a092/22K50ou6sKY)   [[Project]](http://healthllm.top/LLMHPri/encindexen/) [[Code]](https://github.com/Cristliu/LLMHealthPrivacy_UserStudy)
 - This paper contributes the first user study (n=846) in China on privacy awareness and expectations in LLM-based healthcare consultations.
 
@@ -53,7 +53,7 @@ The 46th IEEE Symposium on Security and Privacy (S&P'25)
 <div class='paper-box-text' markdown="1">
 
 **SeCoSe: Toward Searchable and Communicable Healthcare Service Seeking in Flexible and Secure EHR Sharing**
-<font color="#006600" style="font-weight:bold">Zhihuang Liu</font>, <font color="#006600">Ling Hu, Zhiping Cai*, Ximeng Liu, and Yanhua Liu\</font>
+<font color="#006600"><span style="font-weight:bold">Zhihuang Liu*</span>, Ling Hu, Zhiping Cai*, Ximeng Liu, and Yanhua Liu</font>
 IEEE Transactions on Information Forensics and Security
 [[Paper]](https://ieeexplore.ieee.org/document/10506668)   [[Project]](https://cristliu.github.io/) [[Code]](https://cristliu.github.io/)
 - This Paper proposes a searchable and communicable proactive healthcare service seeking scheme (SeCoSe) in a blockchain-based EHR sharing system.
@@ -65,10 +65,22 @@ IEEE Transactions on Information Forensics and Security
 <div class='paper-box-text' markdown="1">
 
 **Blockchain and trusted reputation assessment-based incentive mechanism for healthcare services**
-<font color="#006600">Yanhua Liu, <span style="font-weight:bold">Zhihuang Liu*</span>, Qiu Zhang, Jinshu Su, Zhiping Cai, and Xiaoyan Li\</font>
+<font color="#006600">Yanhua Liu, <span style="font-weight:bold">Zhihuang Liu*</span>, Qiu Zhang, Jinshu Su, Zhiping Cai, and Xiaoyan Li</font>
 Future Generation Computer Systems
 [[Paper]](https://www.sciencedirect.com/science/article/pii/S0167739X23004843)   [[Project]](https://cristliu.github.io/) [[Code]](https://cristliu.github.io/)
 - This Paper proposes a Blockchain and trusted Reputation assessment-based Incentive mechanism for healthcare services (BtRaI).
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TETC</div><img src='images/TETC.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**A Web Back-End Database Leakage Incident Reconstruction Framework Over Unlabeled Logs**
+<font color="#006600">Yanhua Liu, <span style="font-weight:bold">Zhihuang Liu*</span>, Ximeng Liu, and Wenzhong Guo</font>
+IEEE Transactions on Emerging Topics in Computing
+[[Paper]](https://ieeexplore.ieee.org/document/9861244/)   [[Project]](https://cristliu.github.io/) [[Code]](https://github.com/Cristliu/WeB-DLIR)
+- This paper proposes a web back-end database leakage incident reconstruction framework (WeB-DLIR) over unlabeled logs, designed to improve the intelligence and automation of reconstructing web back-end database leakage incidents triggered by web-based attacks in unannotated logging environments.
 
 </div>
 </div>
@@ -100,6 +112,3 @@ Future Generation Computer Systems
 # 💻 Services
 - Reviewer for IJCAI, AAAI, CVPR
 - Reviewer for TSMC, JPDC, SuperComputing
-
-# 💡 Contact
-<img src='/images/lzh_wechat.png' alt="WeChat QR Code" width="300">
