@@ -39,7 +39,7 @@ Zhihuang Liu is a Ph.D. candidate at National University of Defense Technology (
 <div class='paper-box-text' markdown="1">
 
 **Prevalence Overshadows Concerns? Understanding Chinese Users’ Privacy Awareness and Expectations Towards LLM-based Healthcare Consultation**
-<font color="#006600"><span style="font-weight:bold">Zhihuang Liu*</span>, Ling Hu, Tongqing Zhou, Yonghao Tang, Zhiping Cai*</font>
+<font color="#006600"><span style="font-weight:bold">Zhihuang Liu</span>, Ling Hu, Tongqing Zhou, Yonghao Tang, Zhiping Cai*</font>
 The 46th IEEE Symposium on Security and Privacy (S&P25)
 [[Paper]](https://www.computer.org/csdl/proceedings-article/sp/2025/223600a092/22K50ou6sKY)   [[Project]](http://healthllm.top/LLMHPri/encindexen/) [[Code]](https://github.com/Cristliu/LLMHealthPrivacy_UserStudy)
 - This paper contributes the first user study (n=846) in China on privacy awareness and expectations in LLM-based healthcare consultations.
@@ -53,10 +53,22 @@ The 46th IEEE Symposium on Security and Privacy (S&P25)
 <div class='paper-box-text' markdown="1">
 
 **SeCoSe: Toward Searchable and Communicable Healthcare Service Seeking in Flexible and Secure EHR Sharing**
-<font color="#006600"><span style="font-weight:bold">Zhihuang Liu*</span>, Ling Hu, Zhiping Cai*, Ximeng Liu, and Yanhua Liu</font>
+<font color="#006600"><span style="font-weight:bold">Zhihuang Liu</span>, Ling Hu, Zhiping Cai*, Ximeng Liu, and Yanhua Liu</font>
 IEEE Transactions on Information Forensics and Security
 [[Paper]](https://ieeexplore.ieee.org/document/10506668)   [[Project]](https://cristliu.github.io/) [[Code]](https://cristliu.github.io/)
 - This Paper proposes a searchable and communicable proactive healthcare service seeking scheme (SeCoSe) in a blockchain-based EHR sharing system.
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TBD</div><img src='images/TBD.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Split Learning on Segmented Healthcare Data**
+<font color="#006600">Ling Hu, Tongqing Zhou, <span style="font-weight:bold">Zhihuang Liu*</span>, Fang Liu, and Zhiping Cai*</font>
+IEEE Transactions on Big Data
+[[Paper]](https://ieeexplore.ieee.org/document/10946173)   [[Project]](https://cristliu.github.io/) [[Code]](https://cristliu.github.io/)
+- This paper first investigates the privacy-preserving learning problem on segmented healthcare data. Considering the data split situation, we propose to adapt split learning to support the distributed learning process and design a novel framework STSL (i.e., Spatio-temporal Split Learning).
 
 </div>
 </div>
