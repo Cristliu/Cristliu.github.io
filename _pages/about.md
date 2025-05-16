@@ -135,5 +135,5 @@ IEEE Transactions on Emerging Topics in Computing
 
 
 # 💻 Services
-- Reviewer for IJCAI, AAAI, CVPR
-- Reviewer for TSMC, JPDC, SuperComputing
+- Reviewer for CVPR, AAAI, IJCAI, MM.
+- Reviewer for TSMC, JPDC, IOTJ, SuperComputing.
