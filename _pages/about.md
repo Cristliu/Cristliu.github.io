@@ -135,5 +135,18 @@ IEEE Transactions on Emerging Topics in Computing
 
 
 # 💻 Services
-- Reviewer for CVPR, AAAI, IJCAI, MM.
-- Reviewer for TSMC, JPDC, IOTJ, SuperComputing.
+
+## Journal Reviewer
+
+- IEEE Transactions on Dependable and Secure Computing (TDSC)
+- IEEE Transactions on Systems, Man, and Cybernetics: Systems (TSMC)
+- IEEE Internet of Things Journal (IOTJ)
+- SCIENCE CHINA Information Sciences (*Chinese*)
+- Scientific Reports
+
+## Conference Reviewer
+
+- The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
+- The Association for the Advancement of Artificial Intelligence (AAAI)
+- International Joint Conference on Artificial Intelligence (IJCAI)
+- ACM International Conference on Multimedia (ACM MM)
