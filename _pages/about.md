@@ -20,15 +20,15 @@ redirect_from:
 Zhihuang Liu is a Ph.D. candidate at National University of Defense Technology (NUDT).
 <!-- He has published over 10 research papers, including in *IEEE Symposium on Security and Privacy (S\&P)*, *IEEE Transactions on Information Forensics and Security (TIFS)*, and *Future Generation Computer Systems (FGCS)*. He also serves as reviewer for IJCAI, AAAI, TSMC, JPDC, etc. -->
 
-**Research interests**: Privacy Protection, Applied Cryptography, Blockchain, Usable Security, and Large Language Models.
+**Research interests**: Privacy Protection, Applied Cryptography, Usable Security, Large Language Models (LLMs), and Artificial Intelligence (AI) Security.
 
 
 
 # 🔥 News
 - 2025.03: One paper has been accepted by IEEE Transactions on Circuits and Systems for Video Technology (CCF B, SCI, JCR Q1, 中科院一区TOP).
 - 2025.03: One paper has been accepted by IEEE Transactions on Big Data (CCF C, SCI, JCR Q1, 中科院二区).
-- 2024.12: Awarded the Ourstanding Student of NUDT.
-- 2024.12: Awarded China National Scholarship for PhD Students.
+- 2024.12: Awarded the **Ourstanding Student** of NUDT.
+- 2024.12: Awarded China **National Scholarship** for PhD Students.
 - 2024.09: One paper has been accepted by **IEEE Symposium on Security and Privacy (SP'25) <font color="#dd0000">(Top Computer Security Conference, CCF A)</font>**. 
 - 2024.08: One paper has been accepted by International Conference on Neural Information Processing (CCF C).
 - 2024.04: One paper has been accepted by **IEEE Transactions on Information Forensics and Security <font color="#dd0000">(CCF A, SCI, JCR Q1, 中科院一区TOP)</font>**. 
@@ -150,3 +150,13 @@ IEEE Transactions on Emerging Topics in Computing
 - The Association for the Advancement of Artificial Intelligence (AAAI)
 - International Joint Conference on Artificial Intelligence (IJCAI)
 - ACM International Conference on Multimedia (ACM MM)
+
+<span class='anchor' id='contact'></span>
+
+# 📬 Contact
+
+**Email:** lzhliu@nudt.edu.cn
+
+**WeChat:**
+
+<img src="/images/lzh_wechat.jpg" alt="WeChat QR Code" style="max-width:220px; margin-top:10px;">
