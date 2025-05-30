@@ -109,14 +109,14 @@
       {% if author.wechat %}
         <li>
           <a href="#" onclick="document.getElementById('wechat-qr-modal').style.display='block';return false;">
-            <i class="fab fa-fw fa-weixin" aria-hidden="true"></i> WeChat
+            <i class="fab fa-fw fa-weixin" aria-hidden="true"></i> WeChat (Contact)
           </a>
         </li>
         <div id="wechat-qr-modal" style="display:none;position:fixed;z-index:9999;left:0;top:0;width:100vw;height:100vh;background:rgba(0,0,0,0.5);text-align:center;">
           <div style="display:inline-block;margin-top:10vh;background:#fff;padding:20px;border-radius:8px;position:relative;">
             <span style="position:absolute;top:5px;right:10px;cursor:pointer;font-size:24px;" onclick="document.getElementById('wechat-qr-modal').style.display='none';">&times;</span>
             <img src="/{{ author.wechat }}" alt="WeChat QR Code" style="max-width:300px;max-height:300px;">
-            <div style="margin-top:10px;">Scan to add me on WeChat</div>
+            <div style="margin-top:10px;font-weight:bold;">Scan the QR code to contact me via WeChat</div>
           </div>
         </div>
       {% endif %}
@@ -205,13 +205,13 @@
       {% endif %}
       {% if author.wechat %}
         <a href="#" onclick="document.getElementById('wechat-qr-modal').style.display='block';return false;">
-          <i class="fab fa-fw fa-weixin" aria-hidden="true"></i>
+          <i class="fab fa-fw fa-weixin" aria-hidden="true"></i> WeChat (Contact)
         </a>
         <div id="wechat-qr-modal" style="display:none;position:fixed;z-index:9999;left:0;top:0;width:100vw;height:100vh;background:rgba(0,0,0,0.5);text-align:center;">
           <div style="display:inline-block;margin-top:10vh;background:#fff;padding:20px;border-radius:8px;position:relative;">
             <span style="position:absolute;top:5px;right:10px;cursor:pointer;font-size:24px;" onclick="document.getElementById('wechat-qr-modal').style.display='none';">&times;</span>
             <img src="/{{ author.wechat }}" alt="WeChat QR Code" style="max-width:300px;max-height:300px;">
-            <div style="margin-top:10px;">Scan to add me on WeChat</div>
+            <div style="margin-top:10px;font-weight:bold;">Scan the QR code to contact me via WeChat</div>
           </div>
         </div>
       {% endif %}
