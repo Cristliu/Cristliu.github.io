@@ -139,16 +139,20 @@ IEEE Transactions on Emerging Topics in Computing
 ## Journal Reviewer
 
 - IEEE Transactions on Dependable and Secure Computing (TDSC)
+- IEEE Transactions on Wireless Communications (TWC)
 - IEEE Transactions on Systems, Man, and Cybernetics: Systems (TSMC)
 - IEEE Internet of Things Journal (IOTJ)
 - SCIENCE CHINA Information Sciences (*Chinese*)
+- Journal of Parallel and Distributed Computing (JPDC)
+- The Journal of Supercomputing
 - Scientific Reports
 
 ## Conference Reviewer
 
+- The Annual Conference on Neural Information Processing Systems (NeurIPS)
 - The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
 - The Association for the Advancement of Artificial Intelligence (AAAI)
-- International Joint Conference on Artificial Intelligence (IJCAI)
+- The International Joint Conference on Artificial Intelligence (IJCAI)
 - ACM International Conference on Multimedia (ACM MM)
 
 <span class='anchor' id='contact'></span>
