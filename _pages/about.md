@@ -32,7 +32,7 @@ Zhihuang Liu is a Ph.D. candidate at National University of Defense Technology (
 - 2024.12: Awarded China **National Scholarship** for PhD Students.
 - 2024.09: One paper has been accepted by **IEEE Symposium on Security and Privacy (SP'25) <font color="#dd0000">(Top Computer Security Conference, CCF A)</font>**. 
 - 2024.08: One paper has been accepted by International Conference on Neural Information Processing (CCF C).
-- 2024.04: One paper has been accepted by **IEEE Transactions on Information Forensics and Security <font color="#dd0000">(CCF A, SCI, JCR Q1, 中科院一区TOP)</font>**. 
+- 2024.04: One paper has been accepted by **IEEE Transactions on Information Forensics and Security <font color="#dd0000">(CCF A, JCR Q1, 中科院一区TOP)</font>**. 
 - 2023.12: One paper has been accepted by Future Generation Computer Systems (FGCS) (CCF C, JCR Q1, 中科院一区TOP).
 
 # 📝 Selected Publications
@@ -162,6 +162,6 @@ IEEE Transactions on Emerging Topics in Computing
 
 **Email:** lzhliu@nudt.edu.cn
 
-**WeChat:**
+<!-- **WeChat:**
 
-<img src="/images/lzh_wechat.jpg" alt="WeChat QR Code" style="max-width:220px; margin-top:10px;">
+<img src="/images/lzh_wechat.jpg" alt="WeChat QR Code" style="max-width:220px; margin-top:10px;"> --!>
