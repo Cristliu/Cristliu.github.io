@@ -162,6 +162,6 @@ IEEE Transactions on Emerging Topics in Computing
 
 **Email:** lzhliu@nudt.edu.cn
 
-<!-- **WeChat:** --!>
+**WeChat:**
 
-<!-- <img src="/images/lzh_wechat.jpg" alt="WeChat QR Code" style="max-width:220px; margin-top:10px;"> --!>
+<img src="/images/lzh_wechat.jpg" alt="WeChat QR Code" style="max-width:220px; margin-top:10px;">
