@@ -35,7 +35,7 @@ Zhihuang Liu is a Ph.D. candidate at the College of Computer Science and Technol
 - 2024.04: One paper has been accepted by **IEEE Transactions on Information Forensics and Security <font color="#dd0000">(CCF A, JCR Q1, 中科院一区TOP)</font>**. 
 - 2023.12: One paper has been accepted by Future Generation Computer Systems (FGCS) (CCF C, JCR Q1, 中科院一区TOP).
 
-# 📝 Selected Publications
+# 📝 Selected Publications (* Corresponding author)
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE SP'25</div><img src='images/SP25.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
