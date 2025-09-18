@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Zhihuang Liu is a Ph.D. candidate at National University of Defense Technology (NUDT).
+Zhihuang Liu is a Ph.D. candidate at the College of Computer Science and Technology, National University of Defense Technology (NUDT), with an **<font color="#dd0000">expected graduation date of June 2026</font>**.
 <!-- He has published over 10 research papers, including in *IEEE Symposium on Security and Privacy (S\&P)*, *IEEE Transactions on Information Forensics and Security (TIFS)*, and *Future Generation Computer Systems (FGCS)*. He also serves as reviewer for IJCAI, AAAI, TSMC, JPDC, etc. -->
 
 **Research interests**: Privacy Protection, Applied Cryptography, Usable Security, Large Language Models (LLMs), and Artificial Intelligence (AI) Security.
@@ -145,8 +145,8 @@ IEEE Transactions on Emerging Topics in Computing
 
 ## Conference Reviewer (Program Committee)
 
-- The Annual Conference on Neural Information Processing Systems (NeurIPS), The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), The Association for the Advancement of Artificial Intelligence (AAAI)
-- The International Joint Conference on Artificial Intelligence (IJCAI), ACM International Conference on Multimedia (ACM MM)
+- The Annual Conference on Neural Information Processing Systems (**NeurIPS**), The IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), The Association for the Advancement of Artificial Intelligence (**AAAI**)
+- The International Joint Conference on Artificial Intelligence (**IJCAI**), ACM International Conference on Multimedia (**MM**)
 
 <span class='anchor' id='contact'></span>
 
