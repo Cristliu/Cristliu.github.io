@@ -123,7 +123,7 @@ IEEE Transactions on Emerging Topics in Computing
 - [2020.12] Special Award for Outstanding New Student Scholarship, Fuzhou University. (优秀新生特等奖学金)
 - [2020.10] Third Prize (National), China Collegiate Computig Contest. (中国高校计算机大赛三等奖)
 - [2020.06] Excellent Graduate, Fuzhou University. (优秀毕业生)
-- [2019.12] First Prize (National), CCF Big Data & Computing Intelligence Contest. (CCF大数据与计算智能大赛全国一等奖)
+- [2019.12] National First Prize (Team Leader & Key Contributor), CCF Big Data & Computing Intelligence Contest. (CCF大数据与计算智能大赛全国一等奖)
 
 
 # 📖 Educations
