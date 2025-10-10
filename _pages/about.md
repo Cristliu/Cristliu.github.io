@@ -16,7 +16,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Zhihuang Liu is a Ph.D. candidate at the College of Computer Science and Technology, National University of Defense Technology (NUDT), with an **`<font color="#dd0000">`expected graduation date of June 2026`</font>`**.
+Zhihuang Liu is a Ph.D. candidate at the College of Computer Science and Technology, National University of Defense Technology (NUDT), with an **<span style="color:#dd0000">expected graduation date of June 2026</span>**.
 
 <!-- He has published over 10 research papers, including in *IEEE Symposium on Security and Privacy (S\&P)*, *IEEE Transactions on Information Forensics and Security (TIFS)*, and *Future Generation Computer Systems (FGCS)*. He also serves as reviewer for IJCAI, AAAI, TSMC, JPDC, etc. -->
 
@@ -33,12 +33,10 @@ Zhihuang Liu is a Ph.D. candidate at the College of Computer Science and Technol
 - 2025.03: One paper has been accepted by IEEE Transactions on Big Data (CCF C, JCR Q1, 中科院二区).
 - 2024.12: Awarded the **Ourstanding Student** of NUDT.
 - 2024.12: Awarded China **National Scholarship** for PhD Students.
-- 2024.09: One paper has been accepted by **IEEE Symposium on Security and Privacy (SP'25) `<font color="#dd0000">`(Top Computer Security Conference, CCF A)`</font>`**.
+- 2024.09: One paper has been accepted by **IEEE Symposium on Security and Privacy (SP'25) <span style="color:#dd0000">(Top Computer Security Conference, CCF A)</span>**.
 - 2024.08: One paper has been accepted by International Conference on Neural Information Processing (CCF C).
-- 2024.04: One paper has been accepted by **IEEE Transactions on Information Forensics and Security `<font color="#dd0000">`(CCF A, JCR Q1, 中科院一区TOP)`</font>`**.
+- 2024.04: One paper has been accepted by **IEEE Transactions on Information Forensics and Security <span style="color:#dd0000">(CCF A, JCR Q1, 中科院一区TOP)</span>**.
 - 2023.12: One paper has been accepted by Future Generation Computer Systems (FGCS) (CCF C, JCR Q1, 中科院一区TOP).
-
-
 
 # 📝 Selected Publications (* Corresponding author)
 
@@ -46,7 +44,7 @@ Zhihuang Liu is a Ph.D. candidate at the College of Computer Science and Technol
 <div class='paper-box-text' markdown="1">
 
 **Prevalence Overshadows Concerns? Understanding Chinese Users’ Privacy Awareness and Expectations Towards LLM-based Healthcare Consultation**
-`<font color="#006600"><span style="font-weight:bold">`Zhihuang Liu, Ling Hu, Tongqing Zhou, Yonghao Tang, Zhiping Cai*`</font>`
+<span style="color:#006600;font-weight:bold">Zhihuang Liu, Ling Hu, Tongqing Zhou, Yonghao Tang, Zhiping Cai*</span>
 The 46th IEEE Symposium on Security and Privacy (S&P25)
 [[Paper]](https://www.computer.org/csdl/proceedings-article/sp/2025/223600a092/22K50ou6sKY)   [[Project]](http://healthllm.top/LLMHPri/encindexen/) [[Code]](https://github.com/Cristliu/LLMHealthPrivacy_UserStudy)
 
@@ -61,7 +59,7 @@ The 46th IEEE Symposium on Security and Privacy (S&P25)
 <div class='paper-box-text' markdown="1">
 
 **SeCoSe: Toward Searchable and Communicable Healthcare Service Seeking in Flexible and Secure EHR Sharing**
-`<font color="#006600"><span style="font-weight:bold">`Zhihuang Liu, Ling Hu, Zhiping Cai*, Ximeng Liu, and Yanhua Liu`</font>`
+<span style="color:#006600;font-weight:bold">Zhihuang Liu, Ling Hu, Zhiping Cai*, Ximeng Liu, and Yanhua Liu</span>
 IEEE Transactions on Information Forensics and Security
 [[Paper]](https://ieeexplore.ieee.org/document/10506668)   [[Project]](https://cristliu.github.io/) [[Code]](https://cristliu.github.io/)
 
@@ -71,12 +69,11 @@ IEEE Transactions on Information Forensics and Security
 </div>
 
 
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TBD</div><img src='images/TBD.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Split Learning on Segmented Healthcare Data**
-`<font color="#006600">`Ling Hu, Tongqing Zhou, `<span style="font-weight:bold">`Zhihuang Liu*, Fang Liu, and Zhiping Cai*`</font>`
+<span style="color:#006600">Ling Hu, Tongqing Zhou, <span style="font-weight:bold">Zhihuang Liu*</span>, Fang Liu, and Zhiping Cai*</span>
 IEEE Transactions on Big Data
 [[Paper]](https://ieeexplore.ieee.org/document/10946173)   [[Project]](https://cristliu.github.io/) [[Code]](https://cristliu.github.io/)
 
@@ -86,12 +83,11 @@ IEEE Transactions on Big Data
 </div>
 
 
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">FGCS</div><img src='images/FGCS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Blockchain and trusted reputation assessment-based incentive mechanism for healthcare services**
-`<font color="#006600">`Yanhua Liu, `<span style="font-weight:bold">`Zhihuang Liu*, Qiu Zhang, Jinshu Su, Zhiping Cai, and Xiaoyan Li`</font>`
+<span style="color:#006600">Yanhua Liu, <span style="font-weight:bold">Zhihuang Liu*</span>, Qiu Zhang, Jinshu Su, Zhiping Cai, and Xiaoyan Li</span>
 Future Generation Computer Systems
 [[Paper]](https://www.sciencedirect.com/science/article/pii/S0167739X23004843)   [[Project]](https://cristliu.github.io/) [[Code]](https://cristliu.github.io/)
 
@@ -101,12 +97,11 @@ Future Generation Computer Systems
 </div>
 
 
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT</div><img src='images/TCSVT.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **PPIDM: Privacy-Preserving Inference for Diffusion Model in the Cloud**
-`<font color="#006600">`Zhangdong Wang, `<span style="font-weight:bold">`Zhihuang Liu, Yuanjing Luo, Tongqing Zhou, Jiaohua Qin, and Zhiping Cai*`</font>`
+<span style="color:#006600">Zhangdong Wang, <span style="font-weight:bold">Zhihuang Liu</span>, Yuanjing Luo, Tongqing Zhou, Jiaohua Qin, and Zhiping Cai*</span>
 IEEE Transactions on Circuits and Systems for Video Technology
 [[Paper]](https://ieeexplore.ieee.org/document/10937222)   [[Project]](https://cristliu.github.io/) [[Code]](https://cristliu.github.io/)
 
@@ -116,12 +111,11 @@ IEEE Transactions on Circuits and Systems for Video Technology
 </div>
 
 
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TETC</div><img src='images/TETC.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **A Web Back-End Database Leakage Incident Reconstruction Framework Over Unlabeled Logs**
-`<font color="#006600">`Yanhua Liu, `<span style="font-weight:bold">`Zhihuang Liu*, Ximeng Liu, and Wenzhong Guo`</font>`
+<span style="color:#006600">Yanhua Liu, <span style="font-weight:bold">Zhihuang Liu*</span>, Ximeng Liu, and Wenzhong Guo</span>
 IEEE Transactions on Emerging Topics in Computing
 [[Paper]](https://ieeexplore.ieee.org/document/9861244/)   [[Project]](https://cristliu.github.io/) [[Code]](https://github.com/Cristliu/WeB-DLIR)
 
@@ -129,7 +123,6 @@ IEEE Transactions on Emerging Topics in Computing
 
 </div>
 </div>
-
 
 
 # 🎖 Honors and Awards
