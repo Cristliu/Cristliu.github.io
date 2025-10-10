@@ -44,7 +44,7 @@ Zhihuang Liu is a Ph.D. candidate at the College of Computer Science and Technol
 <div class='paper-box-text' markdown="1">
 
 **Prevalence Overshadows Concerns? Understanding Chinese Users’ Privacy Awareness and Expectations Towards LLM-based Healthcare Consultation**
-<span style="color:#006600"><span style="font-weight:bold">Zhihuang Liu</span>, Ling Hu, Tongqing Zhou, Yonghao Tang, Zhiping Cai*</span>
+<p style="color:#006600"><span style="font-weight:bold">Zhihuang Liu</span>, Ling Hu, Tongqing Zhou, Yonghao Tang, Zhiping Cai*</p>
 The 46th IEEE Symposium on Security and Privacy (S&P25)
 [[Paper]](https://www.computer.org/csdl/proceedings-article/sp/2025/223600a092/22K50ou6sKY)   [[Project]](http://healthllm.top/LLMHPri/encindexen/) [[Code]](https://github.com/Cristliu/LLMHealthPrivacy_UserStudy)
 
@@ -59,7 +59,7 @@ The 46th IEEE Symposium on Security and Privacy (S&P25)
 <div class='paper-box-text' markdown="1">
 
 **SeCoSe: Toward Searchable and Communicable Healthcare Service Seeking in Flexible and Secure EHR Sharing**
-<span style="color:#006600"><span style="font-weight:bold">Zhihuang Liu</span>, Ling Hu, Zhiping Cai*, Ximeng Liu, and Yanhua Liu</span>
+<p style="color:#006600"><span style="font-weight:bold">Zhihuang Liu</span>, Ling Hu, Zhiping Cai*, Ximeng Liu, and Yanhua Liu</p>
 IEEE Transactions on Information Forensics and Security
 [[Paper]](https://ieeexplore.ieee.org/document/10506668)   [[Project]](https://cristliu.github.io/) [[Code]](https://cristliu.github.io/)
 
@@ -73,7 +73,7 @@ IEEE Transactions on Information Forensics and Security
 <div class='paper-box-text' markdown="1">
 
 **Split Learning on Segmented Healthcare Data**
-<span style="color:#006600">Ling Hu, Tongqing Zhou, <span style="font-weight:bold">Zhihuang Liu*</span>, Fang Liu, and Zhiping Cai*</span>
+<p style="color:#006600">Ling Hu, Tongqing Zhou, <span style="font-weight:bold">Zhihuang Liu*</span>, Fang Liu, and Zhiping Cai*</p>
 IEEE Transactions on Big Data
 [[Paper]](https://ieeexplore.ieee.org/document/10946173)   [[Project]](https://cristliu.github.io/) [[Code]](https://cristliu.github.io/)
 
@@ -87,7 +87,7 @@ IEEE Transactions on Big Data
 <div class='paper-box-text' markdown="1">
 
 **Blockchain and trusted reputation assessment-based incentive mechanism for healthcare services**
-<span style="color:#006600">Yanhua Liu, <span style="font-weight:bold">Zhihuang Liu*</span>, Qiu Zhang, Jinshu Su, Zhiping Cai, and Xiaoyan Li</span>
+<p style="color:#006600">Yanhua Liu, <span style="font-weight:bold">Zhihuang Liu*</span>, Qiu Zhang, Jinshu Su, Zhiping Cai, and Xiaoyan Li</p>
 Future Generation Computer Systems
 [[Paper]](https://www.sciencedirect.com/science/article/pii/S0167739X23004843)   [[Project]](https://cristliu.github.io/) [[Code]](https://cristliu.github.io/)
 
@@ -101,7 +101,7 @@ Future Generation Computer Systems
 <div class='paper-box-text' markdown="1">
 
 **PPIDM: Privacy-Preserving Inference for Diffusion Model in the Cloud**
-<span style="color:#006600">Zhangdong Wang, <span style="font-weight:bold">Zhihuang Liu</span>, Yuanjing Luo, Tongqing Zhou, Jiaohua Qin, and Zhiping Cai*</span>
+<p style="color:#006600">Zhangdong Wang, <span style="font-weight:bold">Zhihuang Liu</span>, Yuanjing Luo, Tongqing Zhou, Jiaohua Qin, and Zhiping Cai*</p>
 IEEE Transactions on Circuits and Systems for Video Technology
 [[Paper]](https://ieeexplore.ieee.org/document/10937222)   [[Project]](https://cristliu.github.io/) [[Code]](https://cristliu.github.io/)
 
@@ -115,7 +115,7 @@ IEEE Transactions on Circuits and Systems for Video Technology
 <div class='paper-box-text' markdown="1">
 
 **A Web Back-End Database Leakage Incident Reconstruction Framework Over Unlabeled Logs**
-<span style="color:#006600">Yanhua Liu, <span style="font-weight:bold">Zhihuang Liu*</span>, Ximeng Liu, and Wenzhong Guo</span>
+<p style="color:#006600">Yanhua Liu, <span style="font-weight:bold">Zhihuang Liu*</span>, Ximeng Liu, and Wenzhong Guo</p>
 IEEE Transactions on Emerging Topics in Computing
 [[Paper]](https://ieeexplore.ieee.org/document/9861244/)   [[Project]](https://cristliu.github.io/) [[Code]](https://github.com/Cristliu/WeB-DLIR)
 
