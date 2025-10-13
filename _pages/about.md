@@ -22,21 +22,27 @@ Zhihuang Liu is a Ph.D. candidate at the College of Computer Science and Technol
 
 **Research interests**: Privacy Protection, Applied Cryptography, Usable Security, Large Language Models (LLMs), and Artificial Intelligence (AI) Security.
 
-> *<span style="color:#006600"> High self‑motivated researcher in privacy protection and applied cryptography with focus on AI security and usable security solutions.</span>*
+> *<span style="color:#006600"> High self‑motivated researcher in Privacy Protection and Applied Cryptography with focus on AI Security and Usable Security solutions.</span>*
 
-# 🔥 News
+# 📖 Educations
 
-- 2025.10: An effort on *Security Vulnerabilities in Self-Hosted LLM Services* has been submitted to WWW2026. Wish us luck!
-- 2025.08: One paper has been accepted by IEEE Transactions on Circuits and Systems for Video Technology (CCF B, JCR Q1, 中科院一区TOP).
-- 2025.05: A paper titled **Risk-Aware Privacy Preservation for LLM Inference** has been submitted to TIFS for consideration. Wish us luck!
-- 2025.03: One paper about has been accepted by IEEE Transactions on Circuits and Systems for Video Technology (CCF B, JCR Q1, 中科院一区TOP).
-- 2025.03: One paper has been accepted by IEEE Transactions on Big Data (CCF C, JCR Q1, 中科院二区).
+- *2023.09 - now*, Ph.D. Candidate, National University of Defense Technology (双一流, 985), Changsha, China.
+- *2020.09 - 2023.06*, Master, Fuzhou University (双一流, 211), Fuzhou, China.
+- *2016.09 - 2020.06*, Bachelor, Fuzhou University (双一流, 211), Fuzhou, China.
+
+# 🎉 News
+
+- 2025.10: An effort on *Security Vulnerabilities in Self-Hosted LLM Services* has been submitted to WWW2026 (Core <span style="color:#dd0000">A*</span>, CCF <span style="color:#dd0000">A</span>). Wish us luck!
+- 2025.08: One paper has been accepted by IEEE Transactions on Circuits and Systems for Video Technology (CCF B, JCR Q1, <span style="color:#dd0000">IF:11.1</span>, 中科院<span style="color:#dd0000">一区TOP</span>).
+- 2025.05: A paper titled **Risk-Aware Privacy Preservation for LLM Inference** has been submitted to TIFS (<span style="color:#dd0000">(CCF <span style="color:#dd0000">A</span>, JCR Q1, IF: 8.0, 中科院<span style="color:#dd0000">一区TOP</span>)) for consideration. Wish us luck!
+- 2025.03: One paper about has been accepted by IEEE Transactions on Circuits and Systems for Video Technology (CCF B, JCR Q1, <span style="color:#dd0000">IF:11.1</span>, 中科院<span style="color:#dd0000">一区TOP</span>).
+- 2025.03: One paper has been accepted by IEEE Transactions on Big Data (CCF C, JCR Q1, IF:5.7, 中科院二区).
 - 2024.12: Awarded the **Ourstanding Student** of NUDT.
 - 2024.12: Awarded China **National Scholarship** for PhD Students.
-- 2024.09: One paper has been accepted by **IEEE Symposium on Security and Privacy (SP'25) <span style="color:#dd0000">(Top Computer Security Conference, CCF A)</span>**.
+- 2024.09: One paper has been accepted by **IEEE Symposium on Security and Privacy (SP'25) (<span style="color:#dd0000">Top‑tier</span> security conference, Ranked <span style="color:#dd0000">No. 1</span>, Core <span style="color:#dd0000">A*</span>, CCF <span style="color:#dd0000">A</span>, AR: <span style="color:#dd0000">14.8%</span> (257/1740))**.
 - 2024.08: One paper has been accepted by International Conference on Neural Information Processing (CCF C).
-- 2024.04: One paper has been accepted by **IEEE Transactions on Information Forensics and Security <span style="color:#dd0000">(CCF A, JCR Q1, 中科院一区TOP)</span>**.
-- 2023.12: One paper has been accepted by Future Generation Computer Systems (FGCS) (CCF C, JCR Q1, 中科院一区TOP).
+- 2024.04: One paper has been accepted by **IEEE Transactions on Information Forensics and Security <span style="color:#dd0000">(CCF <span style="color:#dd0000">A</span>, JCR Q1, IF: 8.0, 中科院<span style="color:#dd0000">一区TOP</span>)**.
+- 2023.12: One paper has been accepted by Future Generation Computer Systems (FGCS) (CCF C, JCR Q1, IF:6.1, 中科院<span style="color:#dd0000">一区TOP</span>).
 
 # 📝 Selected Publications (* Corresponding author)
 
@@ -87,7 +93,7 @@ IEEE Transactions on Big Data
 <div class='paper-box-text' markdown="1">
 
 **Blockchain and trusted reputation assessment-based incentive mechanism for healthcare services**
-<p style="color:#006600">Yanhua Liu, <span style="font-weight:bold">Zhihuang Liu*</span>, Qiu Zhang, Jinshu Su, Zhiping Cai, and Xiaoyan Li</p>
+<p style="color:#006600">Yanhua Liu (*Supervisor*), <span style="font-weight:bold">Zhihuang Liu*</span>, Qiu Zhang, Jinshu Su, Zhiping Cai, and Xiaoyan Li</p>
 Future Generation Computer Systems
 [[Paper]](https://www.sciencedirect.com/science/article/pii/S0167739X23004843)   [[Project]](https://cristliu.github.io/) [[Code]](https://cristliu.github.io/)
 
@@ -115,7 +121,7 @@ IEEE Transactions on Circuits and Systems for Video Technology
 <div class='paper-box-text' markdown="1">
 
 **A Web Back-End Database Leakage Incident Reconstruction Framework Over Unlabeled Logs**
-<p style="color:#006600">Yanhua Liu, <span style="font-weight:bold">Zhihuang Liu*</span>, Ximeng Liu, and Wenzhong Guo</p>
+<p style="color:#006600">Yanhua Liu (*Supervisor*), <span style="font-weight:bold">Zhihuang Liu*</span>, Ximeng Liu, and Wenzhong Guo</p>
 IEEE Transactions on Emerging Topics in Computing
 [[Paper]](https://ieeexplore.ieee.org/document/9861244/)   [[Project]](https://cristliu.github.io/) [[Code]](https://github.com/Cristliu/WeB-DLIR)
 
@@ -124,8 +130,26 @@ IEEE Transactions on Emerging Topics in Computing
 </div>
 </div>
 
+# 🗂️ Selected Projects
 
-# 🎖 Honors and Awards
+- [2023.09-2025.10] National Key Research and Development Program of China (国家重点研发项目): Research on Feature Extraction and Secure Computing Framework of Clinical Big Data for Drug R&D.
+- [2022-2023] Fujian FuHaiChuang Petrochemical (福建福海创石油化工有限公司委托): Research and Development of Cyberspace Security Science and Technology.
+- [2021-2022] State Grid Corporation of China (国家电网信通亿力科技公司委托): Research and Development of Survivability Analysis Technology for Data Network Systems.
+- [2020-2021] Chinese Academy of Sciences (中国科学院信息工程研究所委托): Prototype System for Abnormal Traffic Visualization and Analysis.
+
+
+# 🔖 Patents
+
+- [2024.08, China] User Privacy Awareness Observation Device and Method for LLM‑based Healthcare Consultation, CN118629560A.
+- [2023.12, China] Anonymous Service Retrieval and Sharing Method, Apparatus, and Device for Healthcare Blockchain, CN117610077A.
+- [2022.08, China] A Web Security Incident Forensics Method and System for Data Leakage, ZL 2021 1 0879142. X.
+- [2024.12, China] A Multi‑Party Constrained Privacy Visualization Method, Apparatus, and Device for Medical Data Sharing, ZL 2024 1 1089681.3.
+- [2024.11, China] Distributed Time‑Sequential Data Split Learning Method, Apparatus, and Computer Device, ZL 2024 1 1089563.2
+- [2024.11, China] Privacy‑Preserving Sorting Method, Apparatus, and Computer Device for Multi‑Institution Time‑Sequential Data, ZL 2024 1 1089805.8.
+- [2024.10, China] Generative AI‑Based Polymorphic‑Sensitive Puzzle Detection Method, Apparatus, and Device, ZL 2024 1 1089891.2.
+
+
+# 🎖️ Honors and Awards
 
 - [2024.12] Outstanding Student, National University of Defense Technology. (优秀学员)
 - [2024.12] National Scholarship, Ministry of Education, China. (博士研究生国家奖学金)
@@ -139,17 +163,13 @@ IEEE Transactions on Emerging Topics in Computing
 - [2020.06] Excellent Graduate, Fuzhou University. (优秀毕业生)
 - [2019.12] National First Prize (Team Leader & Key Contributor), CCF Big Data & Computing Intelligence Contest. (CCF大数据与计算智能大赛全国一等奖)
 
-# 📖 Educations
 
-- *2023.09 - now*, Ph.D. Candidate, National University of Defense Technology, Changsha, China.
-- *2020.09 - 2023.06*, Master, Fuzhou University, Fuzhou, China.
-- *2016.09 - 2020.06*, Bachelor, Fuzhou University, Fuzhou, China.
 
-# 💬 Invited Talks
+<!-- # 💬 Invited Talks
 
-- *2024.09*, Excellent Doctoral Student Forum, Xiamen, Organized by Xiamen University.
+- *2024.09*, Excellent Doctoral Student Forum, Xiamen, Organized by Xiamen University. -->
 
-# 💻 Services
+# 👐🏼 Services
 
 ## Journal Reviewer
 
@@ -161,6 +181,19 @@ IEEE Transactions on Emerging Topics in Computing
 
 - The Annual Conference on Neural Information Processing Systems (**NeurIPS**), The IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), The Association for the Advancement of Artificial Intelligence (**AAAI**)
 - The International Joint Conference on Artificial Intelligence (**IJCAI**), ACM International Conference on Multimedia (**MM**)
+
+## Invited Talks
+- *2024.09*, Excellent Doctoral Student Forum, Xiamen, Organized by Xiamen University.
+
+## Teaching Assistant
+- Undergraduate thesis supervision
+- Course: Network Management
+
+## Policy Report
+- Conducted comprehensive analysis on the deployment risks associated with localizing large language models. Authored a policy brief on Analysis and Countermeasures for xxxx Localized Deployment of Open‑Source Large AI Models. The resulting report was submitted to a National Ministry (呈报至某国家部委), informing high‑level decision‑making.
+
+## Cyber Security Audit & Report
+- Identified critical Jailbreak Vulnerabilities in a LLM‑based Intelligent Assistant integrated within a National Demonstration Center of Experimental Computer Education (某计算机国家级实验教学示范中心). Conducted scanning on the website, revealing multiple high‑risk, web‑related vulnerabilities (e.g., Cross‑Site Scripting, SQL Injection) that could result in sensitive data exposure and malicious database manipulation. Promptly reported findings to the center’s authority for immediate mitigation.
 
 <span class='anchor' id='contact'></span>
 
