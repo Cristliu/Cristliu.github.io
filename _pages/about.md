@@ -26,22 +26,22 @@ Zhihuang Liu is a Ph.D. candidate at the College of Computer Science and Technol
 
 # 📖 Educations
 
-- *2023.09 - now*, Ph.D. Candidate, National University of Defense Technology (双一流, 985), Changsha, China.
-- *2020.09 - 2023.06*, Master, Fuzhou University (双一流, 211), Fuzhou, China.
-- *2016.09 - 2020.06*, Bachelor, Fuzhou University (双一流, 211), Fuzhou, China.
+- *2023.09 - now*, Ph.D. Candidate, National University of Defense Technology (Double First-Class 双一流, Project 985), Changsha, China.
+- *2020.09 - 2023.06*, Master, Fuzhou University (Double First-Class 双一流, Project 211), Fuzhou, China.
+- *2016.09 - 2020.06*, Bachelor, Fuzhou University (Double First-Class 双一流, Project 211), Fuzhou, China.
 
 # 🎉 News
 
 - 2025.10: An effort on *Security Vulnerabilities in Self-Hosted LLM Services* has been submitted to WWW2026 (Core <span style="color:#dd0000">A*</span>, CCF <span style="color:#dd0000">A</span>). Wish us luck!
 - 2025.08: One paper has been accepted by IEEE Transactions on Circuits and Systems for Video Technology (CCF B, JCR Q1, <span style="color:#dd0000">IF:11.1</span>, 中科院<span style="color:#dd0000">一区TOP</span>).
-- 2025.05: A paper titled **Risk-Aware Privacy Preservation for LLM Inference** has been submitted to TIFS (<span style="color:#dd0000">(CCF <span style="color:#dd0000">A</span>, JCR Q1, IF: 8.0, 中科院<span style="color:#dd0000">一区TOP</span>)) for consideration. Wish us luck!
+- 2025.05: A paper titled **Risk-Aware Privacy Preservation for LLM Inference** has been submitted to TIFS (CCF <span style="color:#dd0000">A</span>, JCR Q1, IF: 8.0, 中科院<span style="color:#dd0000">一区TOP</span>) for consideration. Wish us luck!
 - 2025.03: One paper about has been accepted by IEEE Transactions on Circuits and Systems for Video Technology (CCF B, JCR Q1, <span style="color:#dd0000">IF:11.1</span>, 中科院<span style="color:#dd0000">一区TOP</span>).
 - 2025.03: One paper has been accepted by IEEE Transactions on Big Data (CCF C, JCR Q1, IF:5.7, 中科院二区).
 - 2024.12: Awarded the **Ourstanding Student** of NUDT.
 - 2024.12: Awarded China **National Scholarship** for PhD Students.
 - 2024.09: One paper has been accepted by **IEEE Symposium on Security and Privacy (SP'25) (<span style="color:#dd0000">Top‑tier</span> security conference, Ranked <span style="color:#dd0000">No. 1</span>, Core <span style="color:#dd0000">A*</span>, CCF <span style="color:#dd0000">A</span>, AR: <span style="color:#dd0000">14.8%</span> (257/1740))**.
 - 2024.08: One paper has been accepted by International Conference on Neural Information Processing (CCF C).
-- 2024.04: One paper has been accepted by **IEEE Transactions on Information Forensics and Security <span style="color:#dd0000">(CCF <span style="color:#dd0000">A</span>, JCR Q1, IF: 8.0, 中科院<span style="color:#dd0000">一区TOP</span>)**.
+- 2024.04: One paper has been accepted by **IEEE Transactions on Information Forensics and Security (CCF <span style="color:#dd0000">A</span>, JCR Q1, IF: 8.0, 中科院<span style="color:#dd0000">一区TOP</span>)**.
 - 2023.12: One paper has been accepted by Future Generation Computer Systems (FGCS) (CCF C, JCR Q1, IF:6.1, 中科院<span style="color:#dd0000">一区TOP</span>).
 
 # 📝 Selected Publications (* Corresponding author)
@@ -93,7 +93,7 @@ IEEE Transactions on Big Data
 <div class='paper-box-text' markdown="1">
 
 **Blockchain and trusted reputation assessment-based incentive mechanism for healthcare services**
-<p style="color:#006600">Yanhua Liu (*Supervisor*), <span style="font-weight:bold">Zhihuang Liu*</span>, Qiu Zhang, Jinshu Su, Zhiping Cai, and Xiaoyan Li</p>
+<p style="color:#006600">Yanhua Liu (~Supervisor~), <span style="font-weight:bold">Zhihuang Liu*</span>, Qiu Zhang, Jinshu Su, Zhiping Cai, and Xiaoyan Li</p>
 Future Generation Computer Systems
 [[Paper]](https://www.sciencedirect.com/science/article/pii/S0167739X23004843)   [[Project]](https://cristliu.github.io/) [[Code]](https://cristliu.github.io/)
 
@@ -121,7 +121,7 @@ IEEE Transactions on Circuits and Systems for Video Technology
 <div class='paper-box-text' markdown="1">
 
 **A Web Back-End Database Leakage Incident Reconstruction Framework Over Unlabeled Logs**
-<p style="color:#006600">Yanhua Liu (*Supervisor*), <span style="font-weight:bold">Zhihuang Liu*</span>, Ximeng Liu, and Wenzhong Guo</p>
+<p style="color:#006600">Yanhua Liu (~Supervisor~), <span style="font-weight:bold">Zhihuang Liu*</span>, Ximeng Liu, and Wenzhong Guo</p>
 IEEE Transactions on Emerging Topics in Computing
 [[Paper]](https://ieeexplore.ieee.org/document/9861244/)   [[Project]](https://cristliu.github.io/) [[Code]](https://github.com/Cristliu/WeB-DLIR)
 
