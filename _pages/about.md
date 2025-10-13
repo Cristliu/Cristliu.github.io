@@ -24,11 +24,15 @@ Zhihuang Liu is a Ph.D. candidate at the College of Computer Science and Technol
 
 > *<span style="color:#006600"> High self‑motivated researcher in Privacy Protection and Applied Cryptography with focus on AI Security and Usable Security solutions.</span>*
 
+<span class='anchor' id='educations'></span>
+
 # 📖 Educations
 
 - *2023.09 - now*, Ph.D. Candidate, National University of Defense Technology (Double First-Class 双一流, Project 985), Changsha, China.
 - *2020.09 - 2023.06*, Master, Fuzhou University (Double First-Class 双一流, Project 211), Fuzhou, China.
 - *2016.09 - 2020.06*, Bachelor, Fuzhou University (Double First-Class 双一流, Project 211), Fuzhou, China.
+
+<span class='anchor' id='news'></span>
 
 # 🎉 News
 
@@ -43,6 +47,8 @@ Zhihuang Liu is a Ph.D. candidate at the College of Computer Science and Technol
 - 2024.08: One paper has been accepted by International Conference on Neural Information Processing (CCF C).
 - 2024.04: One paper has been accepted by **IEEE Transactions on Information Forensics and Security (CCF <span style="color:#dd0000">A</span>, JCR Q1, IF: 8.0, 中科院<span style="color:#dd0000">一区TOP</span>)**.
 - 2023.12: One paper has been accepted by Future Generation Computer Systems (FGCS) (CCF C, JCR Q1, IF:6.1, 中科院<span style="color:#dd0000">一区TOP</span>).
+
+<span class='anchor' id='selected-publications--corresponding-author'></span>
 
 # 📝 Selected Publications (* Corresponding author)
 
@@ -130,6 +136,8 @@ IEEE Transactions on Emerging Topics in Computing
 </div>
 </div>
 
+<span class='anchor' id='selected-projects'></span>
+
 # 🗂️ Selected Projects
 
 - [2023.09-2025.10] National Key Research and Development Program of China (国家重点研发项目): Research on Feature Extraction and Secure Computing Framework of Clinical Big Data for Drug R&D.
@@ -137,6 +145,8 @@ IEEE Transactions on Emerging Topics in Computing
 - [2021-2022] State Grid Corporation of China (国家电网信通亿力科技公司委托): Research and Development of Survivability Analysis Technology for Data Network Systems.
 - [2020-2021] Chinese Academy of Sciences (中国科学院信息工程研究所委托): Prototype System for Abnormal Traffic Visualization and Analysis.
 
+
+<span class='anchor' id='patents'></span>
 
 # 🔖 Patents
 
@@ -148,6 +158,8 @@ IEEE Transactions on Emerging Topics in Computing
 - [2024.11, China] Privacy‑Preserving Sorting Method, Apparatus, and Computer Device for Multi‑Institution Time‑Sequential Data, ZL 2024 1 1089805.8.
 - [2024.10, China] Generative AI‑Based Polymorphic‑Sensitive Puzzle Detection Method, Apparatus, and Device, ZL 2024 1 1089891.2.
 
+
+<span class='anchor' id='honors-and-awards'></span>
 
 # 🎖️ Honors and Awards
 
@@ -168,6 +180,8 @@ IEEE Transactions on Emerging Topics in Computing
 <!-- # 💬 Invited Talks
 
 - *2024.09*, Excellent Doctoral Student Forum, Xiamen, Organized by Xiamen University. -->
+
+<span class='anchor' id='services'></span>
 
 # 👐🏼 Services
 
