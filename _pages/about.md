@@ -39,7 +39,7 @@ Zhihuang Liu is a Ph.D. candidate at the College of Computer Science and Technol
 - 2025.10: An effort on *Security Vulnerabilities in Self-Hosted LLM Services* has been submitted to WWW2026 (Core <span style="color:#dd0000">A*</span>, CCF <span style="color:#dd0000">A</span>). Wish us luck!
 - 2025.08: One paper has been accepted by IEEE Transactions on Circuits and Systems for Video Technology (CCF B, JCR Q1, <span style="color:#dd0000">IF:11.1</span>, 中科院<span style="color:#dd0000">一区TOP</span>).
 - 2025.05: A paper titled **Risk-Aware Privacy Preservation for LLM Inference** has been submitted to TIFS (CCF <span style="color:#dd0000">A</span>, JCR Q1, IF: 8.0, 中科院<span style="color:#dd0000">一区TOP</span>) for consideration. Wish us luck!
-- 2025.03: One paper about has been accepted by IEEE Transactions on Circuits and Systems for Video Technology (CCF B, JCR Q1, <span style="color:#dd0000">IF:11.1</span>, 中科院<span style="color:#dd0000">一区TOP</span>).
+- 2025.03: One paper has been accepted by IEEE Transactions on Circuits and Systems for Video Technology (CCF B, JCR Q1, <span style="color:#dd0000">IF:11.1</span>, 中科院<span style="color:#dd0000">一区TOP</span>).
 - 2025.03: One paper has been accepted by IEEE Transactions on Big Data (CCF C, JCR Q1, IF:5.7, 中科院二区).
 - 2024.12: Awarded the **Ourstanding Student** of NUDT.
 - 2024.12: Awarded China **National Scholarship** for PhD Students.
