@@ -4,25 +4,25 @@ main:
     url: "/#about-me"
 
   - title: "Educations"
-    url: "/#-educations"
+    url: "/#educations"
 
   - title: "News"
-    url: "/#-news"
+    url: "/#news"
 
-  - title: "Selected Publications (* Corresponding author)"
-    url: "/#-selected-publications"
+  - title: "Selected Publications"
+    url: "/#selected-publications--corresponding-author"
 
   - title: "Selected Projects"
-    url: "/#-selected-projects"
+    url: "/#selected-projects"
 
   - title: "Patents"
-    url: "/#-patents"
+    url: "/#patents"
 
   - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
+    url: "/#honors-and-awards"
 
   - title: "Services"
-    url: "/#-services"
+    url: "/#services"
 
   - title: "Contact"
     url: "/#contact"
