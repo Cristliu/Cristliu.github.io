@@ -36,6 +36,7 @@ Zhihuang Liu is a Ph.D. candidate at the College of Computer Science and Technol
 
 # 🎉 News
 
+- 2025.11: Nominated and elected to the *WWW2026 Program Committee*.
 - 2025.10: An effort on *Security Vulnerabilities in Self-Hosted LLM Services* has been submitted to WWW2026 (Core <span style="color:#dd0000">A*</span>, CCF <span style="color:#dd0000">A</span>). Wish us luck!
 - 2025.08: One paper has been accepted by IEEE Transactions on Circuits and Systems for Video Technology (CCF B, JCR Q1, <span style="color:#dd0000">IF:11.1</span>, 中科院<span style="color:#dd0000">一区TOP</span>).
 - 2025.05: A paper titled **Risk-Aware Privacy Preservation for LLM Inference** has been submitted to TIFS (CCF <span style="color:#dd0000">A</span>, JCR Q1, IF: 8.0, 中科院<span style="color:#dd0000">一区TOP</span>) for consideration. Wish us luck!
@@ -193,7 +194,7 @@ IEEE Transactions on Emerging Topics in Computing
 
 ## Conference Reviewer (Program Committee)
 
-- The Annual Conference on Neural Information Processing Systems (**NeurIPS**), The IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), The Association for the Advancement of Artificial Intelligence (**AAAI**)
+- The Annual Conference on Neural Information Processing Systems (**NeurIPS**), The IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), The Web Conference (**WWW**), The Association for the Advancement of Artificial Intelligence (**AAAI**)
 - The International Joint Conference on Artificial Intelligence (**IJCAI**), ACM International Conference on Multimedia (**MM**)
 
 ## Invited Talks
