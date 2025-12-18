@@ -36,6 +36,7 @@ Zhihuang Liu is a Ph.D. candidate at the College of Computer Science and Technol
 
 # 🎉 News
 
+- 2025.12: Received appreciation for reviewing service and awarded ACM Professional Membership.
 - 2025.11: An effort on *Security Vulnerabilities in Self-Hosted LLM Services* has now gained <span style="color:#dd0000">7</span> CVE IDs after months of waiting. Wish us luck!
 - 2025.11: Nominated and elected to the *WWW2026 Program Committee*.
 - 2025.08: One paper has been accepted by IEEE Transactions on Circuits and Systems for Video Technology (CCF B, JCR Q1, <span style="color:#dd0000">IF:11.1</span>, 中科院<span style="color:#dd0000">一区TOP</span>).
