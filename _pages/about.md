@@ -36,6 +36,7 @@ Zhihuang Liu is a Ph.D. candidate at the College of Computer Science and Technol
 
 # 🎉 News
 
+- 2025.12: Our 7 CVEs have been officially **PUBLISHED** and are accessible. The IDs are: CVE-2025-56157, CVE-2025-63386, CVE-2025-63387, CVE-2025-63388, CVE-2025-63389, CVE-2025-63390, CVE-2025-63391. Check them out!
 - 2025.12: Received appreciation for reviewing service and awarded ACM Professional Membership.
 - 2025.11: An effort on *Security Vulnerabilities in Self-Hosted LLM Services* has now gained <span style="color:#dd0000">7</span> CVE IDs after months of waiting. Wish us luck!
 - 2025.11: Nominated and elected to the *WWW2026 Program Committee*.
