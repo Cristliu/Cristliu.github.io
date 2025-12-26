@@ -25,6 +25,7 @@ Zhihuang Liu is a Ph.D. candidate at the College of Computer Science and Technol
 <!-- > *<span style="color:#006600"> High self‑motivated researcher in Privacy Protection and Applied Cryptography with focus on AI Security and Usable Security solutions.</span>* -->
 
 > *<span style="color:#006600">Highly Self-Motivated in pursuing anything Interesting and Worthwhile.</span>*
+
 > *<span style="color:#006600">Currently focused on research in Usable Security for AI systems (e.g., LLMs) with practical impact.</span>*
 
 <span class='anchor' id='educations'></span>
