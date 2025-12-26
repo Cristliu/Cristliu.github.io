@@ -22,7 +22,9 @@ Zhihuang Liu is a Ph.D. candidate at the College of Computer Science and Technol
 
 **Research interests**: Privacy Protection, Applied Cryptography, Usable Security, Large Language Models (LLMs), and Artificial Intelligence (AI) Security.
 
-> *<span style="color:#006600"> High self‑motivated researcher in Privacy Protection and Applied Cryptography with focus on AI Security and Usable Security solutions.</span>*
+<!-- > *<span style="color:#006600"> High self‑motivated researcher in Privacy Protection and Applied Cryptography with focus on AI Security and Usable Security solutions.</span>* -->
+
+> *<span style="color:#006600"> Highly Self-Motivated in pursuing anything Interesting and Worthwhile. Currently focused on research in Usable Security for AI systems (e.g., LLMs) with practical impact.</span>*
 
 <span class='anchor' id='educations'></span>
 
@@ -35,7 +37,6 @@ Zhihuang Liu is a Ph.D. candidate at the College of Computer Science and Technol
 <span class='anchor' id='news'></span>
 
 # 🎉 News
-
 
 - 2025.12: Happy to announce that our 7 CVEs have received CVSSv3 scores (out of 10) of <span style="color:#dd0000">9.8 (Critical), 9.1 (Critical), 7.5 (High), 9.1 (Critical), 9.8 (Critical), 5.3 (Medium), 7.5 (High)</span> respectively! This highlights the severity of these vulnerabilities, warranting serious attention!
 - 2025.12: Our 7 CVEs have been officially **PUBLISHED** and are accessible. The IDs are: CVE-2025-56157, CVE-2025-63386, CVE-2025-63387, CVE-2025-63388, CVE-2025-63389, CVE-2025-63390, CVE-2025-63391. Check them out!
