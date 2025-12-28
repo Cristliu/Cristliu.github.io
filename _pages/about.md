@@ -167,7 +167,7 @@ IEEE Transactions on Emerging Topics in Computing
 
 <span class='anchor' id='honors-and-awards'></span>
 
-# 🎖️ Honors and Awards
+# 🎖️ Selected Awards
 
 - [2024.12] Outstanding Student, National University of Defense Technology. (优秀学员)
 - [2024.12] National Scholarship, Ministry of Education, China. (博士研究生国家奖学金)
@@ -210,10 +210,10 @@ IEEE Transactions on Emerging Topics in Computing
 - Course: Network Management
 
 ## Policy Report
-- Conducted comprehensive analysis on the deployment risks associated with localizing large language models. Authored a policy brief on Analysis and Countermeasures for xxxx Localized Deployment of Open‑Source Large AI Models. The resulting report was submitted to a National Ministry (呈报至某国家部委), informing high‑level decision‑making.
+- Conducted comprehensive analysis on the deployment risks associated with localizing large language models. Authored a policy brief on Analysis and Countermeasures for xxxx Open‑Source Large AI Models. The resulting report was submitted to a National Ministry (呈报至某国家部委), informing high‑level decision‑making.
 
 ## Cyber Security Audit & Report
-- Identified critical Jailbreak Vulnerabilities in a LLM‑based Intelligent Assistant integrated within a National Demonstration Center of Experimental Computer Education (某计算机国家级实验教学示范中心). Conducted scanning on the website, revealing multiple high‑risk, web‑related vulnerabilities (e.g., Cross‑Site Scripting, SQL Injection) that could result in sensitive data exposure and malicious database manipulation. Promptly reported findings to the center’s authority for immediate mitigation.
+- Identified critical Jailbreak Vulnerabilities in a LLM‑based Intelligent Assistant integrated within a National Demonstration Center of Experimental Computer Education (某计算机国家级实验教学示范中心). Conducted scanning on the website, revealing multiple high‑risk, web‑related vulnerabilities. Promptly reported findings to the center’s authority for immediate mitigation.
 
 <span class='anchor' id='contact'></span>
 
