@@ -30,9 +30,9 @@ Zhihuang Liu is a Ph.D. candidate at the College of Computer Science and Technol
 
 # 📖 Educations
 
-- *2023.09 - now*, Ph.D. Candidate, National University of Defense Technology (Double First-Class 双一流, Project 985), Changsha, China.
-- *2020.09 - 2023.06*, Master, Fuzhou University (Double First-Class 双一流, Project 211), Fuzhou, China.
-- *2016.09 - 2020.06*, Bachelor, Fuzhou University (Double First-Class 双一流, Project 211), Fuzhou, China.
+- *2023.09 - now*, Ph.D. Candidate, National University of Defense Technology (Double First-Class, Project 985), Changsha, China.
+- *2020.09 - 2023.06*, Master, Fuzhou University (Double First-Class, Project 211), Fuzhou, China.
+- *2016.09 - 2020.06*, Bachelor, Fuzhou University (Double First-Class, Project 211), Fuzhou, China.
 
 <span class='anchor' id='news'></span>
 
@@ -146,15 +146,15 @@ IEEE Transactions on Emerging Topics in Computing
 
 # 🗂️ Selected Projects
 
-- [2023.09-2025.10] National Key Research and Development Program of China (国家重点研发项目): Research on Feature Extraction and Secure Computing Framework of Clinical Big Data for Drug R&D.
-- [2022-2023] Fujian FuHaiChuang Petrochemical (福建福海创石油化工有限公司委托): Research and Development of Cyberspace Security Science and Technology.
-- [2021-2022] State Grid Corporation of China (国家电网信通亿力科技公司委托): Research and Development of Survivability Analysis Technology for Data Network Systems.
-- [2020-2021] Chinese Academy of Sciences (中国科学院信息工程研究所委托): Prototype System for Abnormal Traffic Visualization and Analysis.
+- [2023.09-2025.10] National Key Research and Development Program of China: Research on Feature Extraction and Secure Computing Framework of Clinical Big Data for Drug R&D.
+- [2022-2023] Fujian FuHaiChuang Petrochemical: Research and Development of Cyberspace Security Science and Technology.
+- [2021-2022] State Grid Corporation of China: Research and Development of Survivability Analysis Technology for Data Network Systems.
+- [2020-2021] Chinese Academy of Sciences: Prototype System for Abnormal Traffic Visualization and Analysis.
 
 
 <span class='anchor' id='patents'></span>
 
-# 🔖 Patents
+# 🔖 Selected Patents
 
 - [2024.08, China] User Privacy Awareness Observation Device and Method for LLM‑based Healthcare Consultation, CN118629560A.
 - [2023.12, China] Anonymous Service Retrieval and Sharing Method, Apparatus, and Device for Healthcare Blockchain, CN117610077A.
@@ -189,7 +189,7 @@ IEEE Transactions on Emerging Topics in Computing
 
 <span class='anchor' id='services'></span>
 
-# 👐🏼 Services
+# 👐🏼 Selected Services
 
 ## Journal Reviewer
 
