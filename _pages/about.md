@@ -26,13 +26,13 @@ Zhihuang Liu is a Ph.D. candidate at the College of Computer Science and Technol
 
 > *<span style="color:#006600">Highly Self-Motivated in pursuing anything Interesting and Worthwhile. <br/>Currently focused on research in Usable Security for AI systems (e.g., LLMs) with practical impact.</span>*
 
-<span class='anchor' id='educations'></span>
+<!-- <span class='anchor' id='educations'></span> -->
 
-# 📖 Educations
+<!-- # 📖 Educations
 
 - *2023.09 - now*, Ph.D. Candidate, National University of Defense Technology (Double First-Class, Project 985), Changsha, China.
 - *2020.09 - 2023.06*, Master, Fuzhou University (Double First-Class, Project 211), Fuzhou, China.
-- *2016.09 - 2020.06*, Bachelor, Fuzhou University (Double First-Class, Project 211), Fuzhou, China.
+- *2016.09 - 2020.06*, Bachelor, Fuzhou University (Double First-Class, Project 211), Fuzhou, China. -->
 
 <span class='anchor' id='news'></span>
 
