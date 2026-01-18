@@ -7,19 +7,10 @@ permalink: /lens/
 <head>
   <meta charset="utf-8">
   <meta name="description"
-        content="LENS: [Insert Paper Title Here]">
-  <meta name="keywords" content="LENS, Research, Computer Vision">
+        content="LENS: Exploring and Exploiting Security Vulnerabilities in Self-Hosted LLM Services">
+  <meta name="keywords" content="LENS, LLM Security, Self-Hosted LLM, Vulnerability Scanning">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>LENS: [Insert Paper Title Here]</title>
-
-  <!-- Global site tag (gtag.js) - Google Analytics -->
-  <!-- <script async src="https://www.googletagmanager.com/gtag/js?id=G-PYVRSFMDRL"></script>
-  <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-    gtag('config', 'G-PYVRSFMDRL');
-  </script> -->
+  <title>LENS: Exploring and Exploiting Security Vulnerabilities in Self-Hosted LLM Services</title>
 
   <link href="https://fonts.googleapis.com/css?family=Google+Sans|Noto+Sans|Castoro"
         rel="stylesheet">
@@ -69,6 +60,42 @@ permalink: /lens/
         background: none;
         padding: 0;
     }
+    .abstract-text {
+        margin-bottom: 1.5rem;
+    }
+    .cve-table {
+        width: 100%;
+        border-collapse: collapse;
+        margin-top: 1rem;
+    }
+    .cve-table th, .cve-table td {
+        border: 1px solid #ddd;
+        padding: 8px;
+        text-align: left;
+    }
+    .cve-table th {
+        background-color: #f2f2f2;
+    }
+    .tag.is-critical {
+        background-color: #ff3860;
+        color: #fff;
+    }
+    .tag.is-high {
+        background-color: #ffdd57;
+        color: rgba(0, 0, 0, 0.7);
+    }
+    .tag.is-medium {
+        background-color: #3273dc;
+        color: #fff;
+    }
+    .ethical-note {
+        background-color: #fff3cd;
+        border-left: 5px solid #ffc107;
+        padding: 15px;
+        margin-top: 20px;
+        border-radius: 4px;
+        font-style: italic;
+    }
   </style>
 </head>
 <body>
@@ -78,72 +105,52 @@ permalink: /lens/
     <div class="container is-max-desktop">
       <div class="columns is-centered">
         <div class="column has-text-centered">
-          <h1 class="title is-1 publication-title">LENS: [Your Paper Full Title Here]</h1>
+          <h1 class="title is-1 publication-title">LENS: Exploring and Exploiting Security Vulnerabilities in Self-Hosted LLM Services</h1>
           <div class="is-size-5 publication-authors">
             <span class="author-block">
               <a href="https://cristliu.github.io/">Zhihuang Liu</a><sup>1</sup>,</span>
             <span class="author-block">
-              <a href="#">Co-Author Name</a><sup>1</sup>,</span>
+              <a href="#">Ling Hu</a><sup>1</sup>,</span>
             <span class="author-block">
-              <a href="#">Co-Author Name</a><sup>2</sup>,
+              <a href="#">Yonghao Tang</a><sup>1</sup>,
+            </span>
+            <span class="author-block">
+              <a href="#">Tongqing Zhou</a><sup>1</sup>,
+            </span>
+            <span class="author-block">
+              <a href="#">Fang Liu</a><sup>2</sup>,
+            </span>
+            <span class="author-block">
+              <a href="#">Zhiping Cai</a><sup>1*</sup>
             </span>
           </div>
 
           <div class="is-size-5 publication-authors">
             <span class="author-block"><sup>1</sup>National University of Defense Technology,</span>
-            <span class="author-block"><sup>2</sup>Other Affiliation</span>
+            <span class="author-block"><sup>2</sup>Hunan University</span>
+            <br>
+            <span class="author-block"><sup>*</sup>Corresponding Author</span>
           </div>
 
           <div class="column has-text-centered">
             <div class="publication-links">
               <!-- PDF Link. -->
               <span class="link-block">
-                <a href="#"
-                   class="external-link button is-normal is-rounded is-dark">
+                <a href="#" class="external-link button is-normal is-rounded is-dark">
                   <span class="icon">
                       <i class="fas fa-file-pdf"></i>
                   </span>
                   <span>Paper</span>
                 </a>
               </span>
-              <!-- arXiv Link. -->
-              <span class="link-block">
-                <a href="#"
-                   class="external-link button is-normal is-rounded is-dark">
-                  <span class="icon">
-                      <i class="ai ai-arxiv"></i>
-                  </span>
-                  <span>arXiv</span>
-                </a>
-              </span>
-              <!-- Video Link. -->
-              <span class="link-block">
-                <a href="#"
-                   class="external-link button is-normal is-rounded is-dark">
-                  <span class="icon">
-                      <i class="fab fa-youtube"></i>
-                  </span>
-                  <span>Video</span>
-                </a>
-              </span>
               <!-- Code Link. -->
               <span class="link-block">
-                <a href="#"
+                <a href="https://github.com/Cristliu/LENS"
                    class="external-link button is-normal is-rounded is-dark">
                   <span class="icon">
                       <i class="fab fa-github"></i>
                   </span>
-                  <span>Code</span>
-                  </a>
-              </span>
-              <!-- Data Link. -->
-              <span class="link-block">
-                <a href="#"
-                   class="external-link button is-normal is-rounded is-dark">
-                  <span class="icon">
-                      <i class="far fa-images"></i>
-                  </span>
-                  <span>Data</span>
+                  <span>Code & Knowledge Base</span>
                   </a>
               </span>
             </div>
@@ -158,17 +165,12 @@ permalink: /lens/
 <section class="hero teaser">
   <div class="container is-max-desktop">
     <div class="hero-body">
-      <!-- <video id="teaser" autoplay muted loop playsinline height="100%">
-        <source src="./static/videos/teaser.mp4"
-                type="video/mp4">
-      </video> -->
-      <div style="width: 100%; height: 300px; background-color: #eee; display: flex; align-items: center; justify-content: center;">
-          <h2 class="subtitle has-text-centered">
-            [Teaser Image/Video Placeholder]
-          </h2>
+      <!-- Using Embed for PDF display. Adjust height as needed. -->
+      <div style="width: 100%; height: 600px; display: flex; align-items: center; justify-content: center; border: 1px solid #ddd; border-radius: 5px; overflow: hidden;">
+         <embed src="./static/images/0118Framework.pdf" type="application/pdf" width="100%" height="100%" /> 
       </div>
-      <h2 class="subtitle has-text-centered">
-        <span class="dnerf">Lens</span> can do amazing things. Short caption describing the teaser result.
+      <h2 class="subtitle has-text-centered" style="margin-top: 15px;">
+        <span class="dnerf">LENS</span> Framework: The first framework for systematic exploration and automated exploitation of security vulnerabilities in self-hosted LLM services.
       </h2>
     </div>
   </div>
@@ -181,94 +183,89 @@ permalink: /lens/
     <div class="columns is-centered has-text-centered">
       <div class="column is-four-fifths">
         <h2 class="title is-3">Abstract</h2>
-        <div class="content has-text-justified">
+        
+        <div class="content has-text-justified abstract-text">
           <p>
-            Here is where you paste your abstract text. 
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
-            Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+            <strong>English:</strong> In response to the recent popular trend of open-source large language model (LLM) deployment, this paper proposes the first framework for systematically exploring and automatically exploiting security vulnerabilities in self-hosted LLM services. We conducted a large-scale empirical assessment on 16 mainstream LLM deployment platforms and over 70,000 deployment targets, filling the research gap regarding the actual severity of vulnerabilities in LLM deployments. We also proposed corresponding security defense techniques. This research has been assigned multiple high-severity (or above) CVE IDs.
           </p>
+        </div>
+
+        <div class="content has-text-justified abstract-text">
           <p>
-            Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
-            Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+            <strong>Chinese:</strong> 面向近来流行的开源大模型部署趋势，该论文提出了首个系统性探索和自动化渗透利用自部署大模型服务安全漏洞的框架，对16个主流的大模型部署平台、7万多个部署目标进行了大规模实证评估，填补了关于大模型部署脆弱性实际危害程度的研究空白，并提出了对应的安全防御技术。该研究获得了多个高危级别以上的漏洞编号。
           </p>
         </div>
       </div>
     </div>
     <!--/ Abstract. -->
 
-    <!-- Paper video. -->
-    <div class="columns is-centered has-text-centered">
-      <div class="column is-four-fifths">
-        <h2 class="title is-3">Video</h2>
-        <div class="publication-video">
-           <div style="width: 100%; height: 400px; background-color: #eee; display: flex; align-items: center; justify-content: center;">
-                [Youtube Embed or Video Placeholder]
-           </div>
-          <!-- <iframe src="https://www.youtube.com/embed/MrKrnHhk8IA?rel=0&amp;showinfo=0"
-                  frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> -->
-        </div>
-      </div>
-    </div>
-    <!--/ Paper video. -->
-  </div>
-</section>
-
-
-<section class="section">
-  <div class="container is-max-desktop">
-
+    <!-- Vulnerabilities. -->
     <div class="columns is-centered">
         <div class="column is-full-width">
-            <h2 class="title is-3">Method</h2>
-            <div class="content has-text-justified">
+            <h2 class="title is-3 has-text-centered">Discovered Vulnerabilities (CVEs)</h2>
+            <div class="content">
                 <p>
-                  Overview of the method.
+                    Our research uncovered significant security flaws in widely used self-hosted LLM platforms. Below is a list of the CVEs assigned to our findings, along with their CVSS severity ratings.
                 </p>
-                <div style="width: 100%; height: 200px; background-color: #eee; display: flex; align-items: center; justify-content: center; margin-bottom: 20px;">
-                    [Method Diagram / Architecture]
+                <div style="overflow-x: auto;">
+                    <table class="cve-table">
+                        <thead>
+                            <tr>
+                                <th style="width: 15%;">CVE ID</th>
+                                <th style="width: 10%;">Severity</th>
+                                <th>Description</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                             <tr>
+                                <td><strong>CVE-2025-56157</strong></td>
+                                <td><span class="tag is-critical">Critical</span></td>
+                                <td>Dify versions up to and including 1.5.1 contain a critical security vulnerability where the PostgreSQL database is configured with hardcoded default credentials in the docker/docker-compose.yaml file. If the PostgreSQL port (5432) is exposed to the internet or an untrusted network, an attacker can gain unauthorized access to the database, leading to sensitive data leakage, privilege escalation, and potentially remote code execution.</td>
+                            </tr>
+                            <tr>
+                                <td><strong>CVE-2025-63389</strong></td>
+                                <td><span class="tag is-critical">Critical</span></td>
+                                <td><strong>Authentication Bypass in Ollama API.</strong> Ollama versions up to v0.1.23 contain a critical vulnerability allowing unauthorized attackers to bypass authentication mechanism in the API, leading to potential code execution and privilege escalation.</td>
+                            </tr>
+                            <tr>
+                                <td><strong>CVE-2025-63390</strong></td>
+                                <td><span class="tag is-high">High</span></td>
+                                <td><strong>Authentication Bypass in AnythingLLM Workspaces.</strong> A logic flaw in AnythingLLM (v1.8.5) allows attackers to bypass authentication checks for workspace access, resulting in unauthorized information disclosure and privilege escalation.</td>
+                            </tr>
+                            <tr>
+                                <td><strong>CVE-2025-63391</strong></td>
+                                <td><span class="tag is-medium">Medium</span></td>
+                                <td><strong>Authentication Bypass in Open-WebUI Config Endpoint.</strong> Open-WebUI (v0.6.32) fails to properly enforce authentication on configuration endpoints, allowing unauthenticated users to modify system settings.</td>
+                            </tr>
+                             <tr>
+                                <td><strong>CVE-2025-63386</strong></td>
+                                <td><span class="tag is-medium">Medium</span></td>
+                                <td><strong>CORS Misconfiguration in Dify.</strong> Weak Cross-Origin Resource Sharing (CORS) policy in Dify (v1.9.1) allows arbitrary domains to access sensitive resources.</td>
+                            </tr>
+                             <tr>
+                                <td><strong>CVE-2025-63388</strong></td>
+                                <td><span class="tag is-medium">Medium</span></td>
+                                <td><strong>CORS Misconfiguration in Dify System Features Endpoint.</strong> Incorrect CORS configuration exposes system feature endpoints to cross-site attacks in Dify (v1.9.1).</td>
+                            </tr>
+                             <tr>
+                                <td><strong>CVE-2025-63387</strong></td>
+                                <td><span class="tag is-medium">Medium</span></td>
+                                <td><strong>Unauthenticated Access to System Features in Dify.</strong> Lack of access control on specific system features in Dify (v1.9.1) allows unauthenticated attackers to invoke sensitive system functions.</td>
+                            </tr>
+                        </tbody>
+                    </table>
                 </div>
-            </div>
-        </div>
-    </div>
 
-    <!-- Results. -->
-    <div class="columns is-centered">
-      <div class="column is-full-width">
-        <h2 class="title is-3">Results</h2>
-        <div class="content has-text-justified">
-            <p>
-                Quantitative and qualitative results.
-            </p>
-        </div>
-        
-        <div class="columns is-centered">
-            <!-- Visual Effects. -->
-            <div class="column">
-              <div class="content">
-                <h3 class="title is-4">Effect 1</h3>
-                <p>
-                  Using <i>nerfies</i> you can create...
-                </p>
-                 <div style="width: 100%; height: 200px; background-color: #eee;"></div>
-              </div>
+                <div class="ethical-note">
+                    <p>
+                        <strong>Ethical Disclosure:</strong> Note that we reported first to institutional authorities and affected vendors, then to CVE after awaiting remediation without adequate response.
+                    </p>
+                </div>
+
             </div>
-            <!--/ Visual Effects. -->
-  
-            <!-- Matting. -->
-            <div class="column">
-              <div class="content">
-                <h3 class="title is-4">Effect 2</h3>
-                <p>
-                  Other cool results...
-                </p>
-                <div style="width: 100%; height: 200px; background-color: #eee;"></div>
-              </div>
-            </div>
-            <!--/ Matting. -->
         </div>
-      </div>
     </div>
-    <!--/ Results. -->
+    <!--/ Vulnerabilities. -->
 
   </div>
 </section>
@@ -278,10 +275,10 @@ permalink: /lens/
   <div class="container is-max-desktop content">
     <h2 class="title">BibTeX</h2>
     <div class="bibtex-section">
-<pre><code>@article{liu2026lens,
-  author    = {Liu, Zhihuang and Others},
-  title     = {LENS: Your Paper Title},
-  journal   = {Conference/Journal Name},
+<pre><code>@inproceedings{liu2026lens,
+  author    = {Liu, Zhihuang and Hu, Ling and Tang, Yonghao and Zhou, Tongqing and Liu, Fang and Cai, Zhiping},
+  title     = {Exploring and Exploiting Security Vulnerabilities in Self-Hosted LLM Services},
+  booktitle = {Proceedings of The Web Conference 2026 (WWW '26)},
   year      = {2026},
 }</code></pre>
     </div>
@@ -296,7 +293,7 @@ permalink: /lens/
          href="#">
         <i class="fas fa-file-pdf"></i>
       </a>
-      <a class="icon-link" href="https://github.com/Cristliu" class="external-link" disabled>
+      <a class="icon-link" href="https://github.com/Cristliu/LENS" class="external-link" disabled>
         <i class="fab fa-github"></i>
       </a>
     </div>
