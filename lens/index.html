@@ -172,7 +172,7 @@ permalink: /lens/
                   <span class="icon">
                       <i class="fab fa-github"></i>
                   </span>
-                  <span>Code & Knowledge Base</span>
+                  <span>Code & Intelligence Database</span>
                   </a>
               </span>
             </div>
@@ -192,7 +192,7 @@ permalink: /lens/
          <img src="./static/images/0118Framework.png" alt="LENS Framework" style="width: 100%; max-width: 1000px;" /> 
       </div>
       <h2 class="subtitle has-text-centered" style="margin-top: 15px;">
-        <span class="dnerf">LENS</span> Framework: The first framework for systematic exploration and automated exploitation of security vulnerabilities in self-hosted LLM services.
+        <span class="dnerf">LENS</span>: The first framework for systematic exploration and automated exploitation of security vulnerabilities in self-hosted LLM services.
       </h2>
     </div>
   </div>
@@ -241,43 +241,43 @@ permalink: /lens/
                         <td><strong>CVE-2025-56157</strong></td>
                         <td>9.8</td>
                         <td><span class="tag is-critical">Critical</span></td>
-                        <td>Dify versions up to and including 1.5.1 contain a critical security vulnerability where the PostgreSQL database is configured with hardcoded default credentials.</td>
+                        <td><strong>Default Credentials in Dify.</strong> Dify versions up to and including 1.5.1 contain a critical security vulnerability where the PostgreSQL database is configured with hardcoded default credentials.</td>
                     </tr>
                     <tr>
                         <td><strong>CVE-2025-63389</strong></td>
                         <td>9.8</td>
                         <td><span class="tag is-critical">Critical</span></td>
-                        <td><strong>Authentication Bypass in Ollama API.</strong> Critical vulnerability allowing unauthorized attackers to bypass authentication mechanism in the API.</td>
+                        <td><strong>Authentication Bypass in Ollama API.</strong> A critical authentication bypass vulnerability exists in Ollama platform's API endpoints in versions prior to and including v0.12.3. The platform exposes multiple API endpoints without requiring authentication, enabling remote attackers to perform unauthorized model management operations.</td>
                     </tr>
                     <tr>
                         <td><strong>CVE-2025-63390</strong></td>
-                        <td>9.1</td>
-                        <td><span class="tag is-critical">Critical</span></td>
-                        <td><strong>Authentication Bypass in AnythingLLM Workspaces.</strong> Logic flaw allowing attackers to bypass authentication checks for workspace access.</td>
+                        <td>5.3</td>
+                        <td><span class="tag is-medium">Medium</span></td>
+                        <td><strong>An authentication bypass vulnerability exists in AnythingLLM v1.8.5 in via the /api/workspaces endpoint. The endpoint fails to implement proper authentication checks, allowing unauthenticated remote attackers to enumerate and retrieve detailed information about all configured workspaces. Exposed data includes: workspace identifiers (id, name, slug), AI model configurations (chatProvider, chatModel, agentProvider), system prompts (openAiPrompt), operational parameters (temperature, history length, similarity thresholds), vector search settings, chat modes, and timestamps.</td>
                     </tr>
                     <tr>
                         <td><strong>CVE-2025-63387</strong></td>
-                        <td>9.1</td>
-                        <td><span class="tag is-critical">Critical</span></td>
-                        <td><strong>Unauthenticated Access to System Features in Dify.</strong> Lack of access control allows unauthenticated attackers to invoke sensitive system functions.</td>
+                        <td>7.5</td>
+                        <td><span class="tag is-high">High</span></td>
+                        <td><strong>Unauthenticated Access to System Features in Dify.</strong> Dify v1.9.1 is vulnerable to Insecure Permissions. An unauthenticated attacker can directly send HTTP GET requests to the /console/api/system-features endpoint without any authentication credentials or session tokens. The endpoint fails to implement proper authorization checks, allowing anonymous access to sensitive system configuration data.</td>
                     </tr>
                     <tr>
                         <td><strong>CVE-2025-63391</strong></td>
-                        <td>8.2</td>
+                        <td>7.5</td>
                         <td><span class="tag is-high">High</span></td>
-                        <td><strong>Authentication Bypass in Open-WebUI.</strong> Failure to properly enforce authentication on configuration endpoints.</td>
+                        <td><strong>Authentication Bypass in Open-WebUI Config Endpoint.</strong> An authentication bypass vulnerability exists in Open-WebUI <=0.6.32 in the /api/config endpoint. The endpoint lacks proper authentication and authorization controls, exposing sensitive system configuration data to unauthenticated remote attackers.</td>
                     </tr>
                      <tr>
                         <td><strong>CVE-2025-63388</strong></td>
-                        <td>8.2</td>
+                        <td>9.1</td>
                         <td><span class="tag is-high">High</span></td>
-                        <td><strong>CORS Misconfiguration in Dify System Features Endpoint.</strong> Incorrect CORS configuration exposes system feature endpoints to cross-site attacks.</td>
+                        <td><strong>CORS Misconfiguration in Dify System Features Endpoint.</strong> A Cross-Origin Resource Sharing (CORS) misconfiguration vulnerability exists in Dify v1.9.1 in the /console/api/system-features endpoint. The endpoint implements an overly permissive CORS policy that reflects arbitrary Origin headers and sets Access-Control-Allow-Credentials: true, allowing any external domain to make authenticated cross-origin requests.</td>
                     </tr>
                      <tr>
                         <td><strong>CVE-2025-63386</strong></td>
-                        <td>6.5</td>
-                        <td><span class="tag is-medium">Medium</span></td>
-                        <td><strong>CORS Misconfiguration in Dify.</strong> Weak Cross-Origin Resource Sharing (CORS) policy allows arbitrary domains to access sensitive resources.</td>
+                        <td>9.1</td>
+                        <td><span class="tag is-critical">Critical</span></td>
+                        <td><strong>CORS Misconfiguration in Dify.</strong> A Cross-Origin Resource Sharing (CORS) misconfiguration vulnerability exists in Dify v1.9.1 in the /console/api/setup endpoint. The endpoint implements an insecure CORS policy that reflects any Origin header and enables Access-Control-Allow-Credentials: true, permitting arbitrary external domains to make authenticated requests.</td>
                     </tr>
                 </tbody>
             </table>
