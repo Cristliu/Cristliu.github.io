@@ -12,6 +12,7 @@ permalink: /lens/
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>LENS: Exploring and Exploiting Security Vulnerabilities in Self-Hosted LLM Services</title>
 
+  <link rel="icon" href="../images/android-chrome-512x512.png">
   <link href="https://fonts.googleapis.com/css?family=Google+Sans|Noto+Sans|Castoro"
         rel="stylesheet">
 
@@ -68,15 +69,24 @@ permalink: /lens/
         border-collapse: collapse;
         margin-top: 1rem;
     }
-    .cve-table th, .cve-table td {
-        border: 1px solid #ddd;
-        padding: 8px;
-        text-align: left;
+    .cve-table th:first-child, .cve-table td:first-child {
+        width: 180px;
+        white-space: nowrap;
     }
-    .cve-table th {
-        background-color: #f2f2f2;
+    .cve-table th:nth-child(2), .cve-table td:nth-child(2) {
+        width: 120px;
+        text-align: center;
     }
-    .tag.is-critical {
+    .cve-table th:nth-child(3), .cve-table td:nth-child(3) {
+        width: 120px;
+        text-align: center;
+    }
+    .tag {
+        display: inline-block;
+        width: 100%;
+        text-align: center;
+        font-weight: bold;
+    }
         background-color: #ff3860;
         color: #fff;
     }
@@ -110,26 +120,24 @@ permalink: /lens/
             <span class="author-block">
               <a href="https://cristliu.github.io/">Zhihuang Liu</a><sup>1</sup>,</span>
             <span class="author-block">
-              <a href="#">Ling Hu</a><sup>1</sup>,</span>
+              Ling Hu<sup>1</sup>,</span>
             <span class="author-block">
-              <a href="#">Yonghao Tang</a><sup>1</sup>,
+              Yonghao Tang<sup>1</sup>,
             </span>
             <span class="author-block">
-              <a href="#">Tongqing Zhou</a><sup>1</sup>,
+              Tongqing Zhou<sup>1</sup>,
             </span>
             <span class="author-block">
-              <a href="#">Fang Liu</a><sup>2</sup>,
+              Fang Liu<sup>2</sup>,
             </span>
             <span class="author-block">
-              <a href="#">Zhiping Cai</a><sup>1*</sup>
+              Zhiping Cai<sup>1</sup>
             </span>
           </div>
 
           <div class="is-size-5 publication-authors">
             <span class="author-block"><sup>1</sup>National University of Defense Technology,</span>
             <span class="author-block"><sup>2</sup>Hunan University</span>
-            <br>
-            <span class="author-block"><sup>*</sup>Corresponding Author</span>
           </div>
 
           <div class="column has-text-centered">
@@ -165,9 +173,9 @@ permalink: /lens/
 <section class="hero teaser">
   <div class="container is-max-desktop">
     <div class="hero-body">
-      <!-- Using Embed for PDF display. Adjust height as needed. -->
-      <div style="width: 100%; height: 600px; display: flex; align-items: center; justify-content: center; border: 1px solid #ddd; border-radius: 5px; overflow: hidden;">
-         <embed src="./static/images/0118Framework.pdf" type="application/pdf" width="100%" height="100%" /> 
+      <!-- Using Image for Framework display. Please ensure 0118Framework.png exists in static/images -->
+      <div style="width: 100%; display: flex; align-items: center; justify-content: center; overflow: hidden;">
+         <img src="./static/images/0118Framework.png" alt="LENS Framework" style="width: 100%; max-width: 1000px;" /> 
       </div>
       <h2 class="subtitle has-text-centered" style="margin-top: 15px;">
         <span class="dnerf">LENS</span> Framework: The first framework for systematic exploration and automated exploitation of security vulnerabilities in self-hosted LLM services.
@@ -186,17 +194,16 @@ permalink: /lens/
         
         <div class="content has-text-justified abstract-text">
           <p>
-            <strong>English:</strong> In response to the recent popular trend of open-source large language model (LLM) deployment, this paper proposes the first framework for systematically exploring and automatically exploiting security vulnerabilities in self-hosted LLM services. We conducted a large-scale empirical assessment on 16 mainstream LLM deployment platforms and over 70,000 deployment targets, filling the research gap regarding the actual severity of vulnerabilities in LLM deployments. We also proposed corresponding security defense techniques. This research has been assigned multiple high-severity (or above) CVE IDs.
+            The deployment of self-hosted large language models (LLMs) has experienced unprecedented growth for enhanced data privacy and control.
+            Yet, such deployment relies on diverse web services, whose vulnerabilities, although mentioned in a few studies, are largely underexplored, conflicting with the security tenet. 
+            From a systematic perspective, we propose LENS, a framework that explores and exploits vulnerabilities in self-hosted LLM services for comprehensive security evaluation.
+            LENS integrates profiling and filtering, endpoint knowledge construction, and attack graph modeling for the automatic discovery, probing, and exploitation of public-facing LLM deployment targets, respectively.
+            We conducted extensive empirical evaluation on real-world self-hosted LLM services across 16 mainstream platforms, 71,249 discovered deployment targets, and 307 API endpoints. Both quantitative and qualitative evidence reveal the prevalence of security vulnerabilities across different self-hosted LLM services. 
+            Notably, 75% of responsive targets allow web API interactions without authentication, rendering exploitation such as injection attacks (97% for Ollama), unauthenticated access (20.2% for AnythingLLM), and default credential abuse (60.6% for Dify).
+            We have responsibly reported the findings to the relevant community and obtained 7 CVE IDs, including 4 critical vulnerabilities (CVSS > 9.0) and 2 high-severity ones.
           </p>
         </div>
 
-        <div class="content has-text-justified abstract-text">
-          <p>
-            <strong>Chinese:</strong> 面向近来流行的开源大模型部署趋势，该论文提出了首个系统性探索和自动化渗透利用自部署大模型服务安全漏洞的框架，对16个主流的大模型部署平台、7万多个部署目标进行了大规模实证评估，填补了关于大模型部署脆弱性实际危害程度的研究空白，并提出了对应的安全防御技术。该研究获得了多个高危级别以上的漏洞编号。
-          </p>
-        </div>
-      </div>
-    </div>
     <!--/ Abstract. -->
 
     <!-- Vulnerabilities. -->
@@ -211,46 +218,54 @@ permalink: /lens/
                     <table class="cve-table">
                         <thead>
                             <tr>
-                                <th style="width: 15%;">CVE ID</th>
-                                <th style="width: 10%;">Severity</th>
+                                <th>CVE ID</th>
+                                <th>CVSS Score</th>
+                                <th>Severity</th>
                                 <th>Description</th>
                             </tr>
                         </thead>
                         <tbody>
                              <tr>
                                 <td><strong>CVE-2025-56157</strong></td>
+                                <td>9.8</td>
                                 <td><span class="tag is-critical">Critical</span></td>
-                                <td>Dify versions up to and including 1.5.1 contain a critical security vulnerability where the PostgreSQL database is configured with hardcoded default credentials in the docker/docker-compose.yaml file. If the PostgreSQL port (5432) is exposed to the internet or an untrusted network, an attacker can gain unauthorized access to the database, leading to sensitive data leakage, privilege escalation, and potentially remote code execution.</td>
+                                <td>Dify versions up to and including 1.5.1 contain a critical security vulnerability where the PostgreSQL database is configured with hardcoded default credentials.</td>
                             </tr>
                             <tr>
                                 <td><strong>CVE-2025-63389</strong></td>
+                                <td>9.8</td>
                                 <td><span class="tag is-critical">Critical</span></td>
-                                <td><strong>Authentication Bypass in Ollama API.</strong> Ollama versions up to v0.1.23 contain a critical vulnerability allowing unauthorized attackers to bypass authentication mechanism in the API, leading to potential code execution and privilege escalation.</td>
+                                <td><strong>Authentication Bypass in Ollama API.</strong> Critical vulnerability allowing unauthorized attackers to bypass authentication mechanism in the API.</td>
                             </tr>
                             <tr>
                                 <td><strong>CVE-2025-63390</strong></td>
-                                <td><span class="tag is-high">High</span></td>
-                                <td><strong>Authentication Bypass in AnythingLLM Workspaces.</strong> A logic flaw in AnythingLLM (v1.8.5) allows attackers to bypass authentication checks for workspace access, resulting in unauthorized information disclosure and privilege escalation.</td>
+                                <td>9.1</td>
+                                <td><span class="tag is-critical">Critical</span></td>
+                                <td><strong>Authentication Bypass in AnythingLLM Workspaces.</strong> Logic flaw allowing attackers to bypass authentication checks for workspace access.</td>
+                            </tr>
+                            <tr>
+                                <td><strong>CVE-2025-63387</strong></td>
+                                <td>9.1</td>
+                                <td><span class="tag is-critical">Critical</span></td>
+                                <td><strong>Unauthenticated Access to System Features in Dify.</strong> Lack of access control allows unauthenticated attackers to invoke sensitive system functions.</td>
                             </tr>
                             <tr>
                                 <td><strong>CVE-2025-63391</strong></td>
-                                <td><span class="tag is-medium">Medium</span></td>
-                                <td><strong>Authentication Bypass in Open-WebUI Config Endpoint.</strong> Open-WebUI (v0.6.32) fails to properly enforce authentication on configuration endpoints, allowing unauthenticated users to modify system settings.</td>
-                            </tr>
-                             <tr>
-                                <td><strong>CVE-2025-63386</strong></td>
-                                <td><span class="tag is-medium">Medium</span></td>
-                                <td><strong>CORS Misconfiguration in Dify.</strong> Weak Cross-Origin Resource Sharing (CORS) policy in Dify (v1.9.1) allows arbitrary domains to access sensitive resources.</td>
+                                <td>8.2</td>
+                                <td><span class="tag is-high">High</span></td>
+                                <td><strong>Authentication Bypass in Open-WebUI.</strong> Failure to properly enforce authentication on configuration endpoints.</td>
                             </tr>
                              <tr>
                                 <td><strong>CVE-2025-63388</strong></td>
-                                <td><span class="tag is-medium">Medium</span></td>
-                                <td><strong>CORS Misconfiguration in Dify System Features Endpoint.</strong> Incorrect CORS configuration exposes system feature endpoints to cross-site attacks in Dify (v1.9.1).</td>
+                                <td>8.2</td>
+                                <td><span class="tag is-high">High</span></td>
+                                <td><strong>CORS Misconfiguration in Dify System Features Endpoint.</strong> Incorrect CORS configuration exposes system feature endpoints to cross-site attacks.</td>
                             </tr>
                              <tr>
-                                <td><strong>CVE-2025-63387</strong></td>
+                                <td><strong>CVE-2025-63386</strong></td>
+                                <td>6.5</td>
                                 <td><span class="tag is-medium">Medium</span></td>
-                                <td><strong>Unauthenticated Access to System Features in Dify.</strong> Lack of access control on specific system features in Dify (v1.9.1) allows unauthenticated attackers to invoke sensitive system functions.</td>
+                                <td><strong>CORS Misconfiguration in Dify.</strong> Weak Cross-Origin Resource Sharing (CORS) policy allows arbitrary domains to access sensitive resources.</td>
                             </tr>
                         </tbody>
                     </table>
@@ -259,6 +274,14 @@ permalink: /lens/
                 <div class="ethical-note">
                     <p>
                         <strong>Ethical Disclosure:</strong> Note that we reported first to institutional authorities and affected vendors, then to CVE after awaiting remediation without adequate response.
+                    </p>
+                </div>
+                
+                <div class="ethical-note" style="border-left-color: #f14668; background-color: #feecf0;">
+                    <p>
+                        <strong>Ethical Usage:</strong> The findings and tools provided in this research are intended for educational and defensive purposes only. 
+                        <strong>Important: Only use the full framework on systems you own or have explicit permission to test. Unauthorized testing is illegal and unethical.</strong>
+                        See <a href="https://github.com/Cristliu/LENS">GitHub README</a> for full disclaimer.
                     </p>
                 </div>
 
@@ -301,13 +324,7 @@ permalink: /lens/
       <div class="column is-8">
         <div class="content">
           <p>
-            This website is licensed under a <a rel="license"
-                                                href="http://creativecommons.org/licenses/by-sa/4.0/">Creative
-            Commons Attribution-ShareAlike 4.0 International License</a>.
-          </p>
-          <p>
-            This page is based on the <a
-              href="https://github.com/nerfies/nerfies.github.io">Nerfies</a> project page.
+            &copy; 2026 Zhihuang Liu.
           </p>
         </div>
       </div>
