@@ -39,7 +39,7 @@ Zhihuang Liu is a Ph.D. candidate at the College of Computer Science and Technol
 # 🎉 News
 - 2026.01: One paper has been accepted by **The Web Conference (WWW'26) (Core <span style="color:#dd0000">A*</span>, CCF <span style="color:#dd0000">A</span>, AR: <span style="color:#dd0000">20.1%</span> (676/3370))**.
 - 2025.12: Happy to announce that our 7 CVEs have received CVSSv3 scores (out of 10) of <span style="color:#dd0000">9.8 (Critical), 9.1 (Critical), 7.5 (High), 9.1 (Critical), 9.8 (Critical), 5.3 (Medium), 7.5 (High)</span> respectively! This highlights the severity of these vulnerabilities, warranting serious attention!
-- 2025.12: Our 7 CVEs have been officially **PUBLISHED** and are accessible. The IDs are: CVE-2025-56157, CVE-2025-63386, CVE-2025-63387, CVE-2025-63388, CVE-2025-63389, CVE-2025-63390, CVE-2025-63391. Check them out!
+- 2025.12: Our 7 CVEs have been officially **PUBLISHED** and are accessible. The IDs are: CVE-2025-56157, CVE-2025-63386, CVE-2025-63387, CVE-2025-63388, CVE-2025-63389, CVE-2025-63390, CVE-2025-63391. Check them out! *Note that we reported first to institutional authorities and affected vendors, then to CVE after awaiting remediation without adequate response.*
 - 2025.12: Received appreciation for reviewing service and awarded **ACM Professional Membership**.
 - 2025.11: An effort on *Security Vulnerabilities in Self-Hosted LLM Services* has now gained <span style="color:#dd0000">7</span> CVE IDs after months of waiting. Wish us luck!
 - 2025.11: Nominated and elected to the *WWW2026 Program Committee*.
