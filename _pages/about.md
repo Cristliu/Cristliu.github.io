@@ -221,10 +221,10 @@ IEEE Transactions on Emerging Topics in Computing
 - Course: Network Management
 
 ## Policy Report
-- Conducted comprehensive analysis on the deployment risks associated with localizing large language models. Authored a policy brief on Analysis and Countermeasures for xxxx Open‑Source Large AI Models. The resulting report was submitted to a National Ministry (呈报至某国家部委), informing high‑level decision‑making.
+- Conducted comprehensive analysis on the deployment risks associated with localizing large language models. Authored a policy brief on Analysis and Countermeasures for xxxx Open‑Source Large AI Models. The resulting report was submitted to a xxxx, informing high‑level decision‑making.
 
 ## Cyber Security Audit & Report
-- Identified critical Jailbreak Vulnerabilities in a LLM‑based Intelligent Assistant integrated within a National Demonstration Center of Experimental Computer Education (某计算机国家级实验教学示范中心). Conducted scanning on the website, revealing multiple high‑risk, web‑related vulnerabilities. Promptly reported findings to the center’s authority for immediate mitigation.
+- Identified critical Jailbreak Vulnerabilities in a LLM‑based Intelligent Assistant integrated within a xxxx. Conducted scanning on the website, revealing multiple high‑risk, web‑related vulnerabilities. Promptly reported findings to the center’s authority for immediate mitigation.
 
 <span class='anchor' id='contact'></span>
 
