@@ -66,12 +66,23 @@ Zhihuang Liu is a Ph.D. candidate at the College of Computer Science and Technol
 The 46th IEEE Symposium on Security and Privacy (S&P25)
 [[Paper]](https://ieeexplore.ieee.org/document/11023333) [[PDF]](pdfs/SP25_LLM_Healthcare_Privacy.pdf) [[Project]](http://healthllm.top/LLMHPri/encindexen/) [[Code]](https://github.com/Cristliu/LLMHealthPrivacy_UserStudy)
 
-- This paper contributes the first user study (n=846) in China on privacy awareness and expectations in LLM-based healthcare consultations.
+- This paper contributes the first user study (n=846) in China on privacy awareness and expectations in LLM-based healthcare consultations. We also proposes challenges and solutions to advance privacy protection technologies in this filed.
 
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WWW'26</div><img src='images/WWW.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
+**Exploring and Exploiting Security Vulnerabilities in Self-Hosted LLM Services**
+<p style="color:#006600"><span style="font-weight:bold">Zhihuang Liu</span>, Ling Hu, Yonghao Tang, Tongqing Zhou, Fang Liu, Zhiping Cai</p>
+Proceedings of The Web Conference 2026 (WWW26)
+[[Paper]](https://cristliu.github.io/lens/) [[PDF]](pdfs/WWW26_LENS.pdf) [[Project]](https://cristliu.github.io/lens/) [[Code]](https://github.com/Cristliu/LENS)
+
+- This paper contributes the first first framework for systematic exploration and automated exploitation of security vulnerabilities in self-hosted LLM services. This work has been assigned multiple vulnerabilities rated at critical severity levels.
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIFS</div><img src='images/TIFS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
