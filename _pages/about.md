@@ -172,6 +172,7 @@ IEEE Transactions on Emerging Topics in Computing
 - [2022.08, China] A Web Security Incident Forensics Method and System for Data Leakage, ZL 2021 1 0879142. X.
 - [2024.12, China] A Multi‑Party Constrained Privacy Visualization Method, Apparatus, and Device for Medical Data Sharing, ZL 2024 1 1089681.3.
 - [2024.11, China] Distributed Time‑Sequential Data Split Learning Method, Apparatus, and Computer Device, ZL 2024 1 1089563.2
+
 <!-- - [2024.11, China] Privacy‑Preserving Sorting Method, Apparatus, and Computer Device for Multi‑Institution Time‑Sequential Data, ZL 2024 1 1089805.8.
 - [2024.10, China] Generative AI‑Based Polymorphic‑Sensitive Puzzle Detection Method, Apparatus, and Device, ZL 2024 1 1089891.2. -->
 
