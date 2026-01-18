@@ -12,7 +12,7 @@ permalink: /lens/
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>LENS: Exploring and Exploiting Security Vulnerabilities in Self-Hosted LLM Services</title>
 
-  <link rel="icon" href="../images/android-chrome-512x512.png">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🔍</text></svg>">
   <link href="https://fonts.googleapis.com/css?family=Google+Sans|Noto+Sans|Castoro"
         rel="stylesheet">
 
@@ -69,16 +69,25 @@ permalink: /lens/
         border-collapse: collapse;
         margin-top: 1rem;
     }
+    .cve-table th, .cve-table td {
+        border: 1px solid #ddd;
+        padding: 8px;
+        vertical-align: middle;
+    }
+    .cve-table th {
+        background-color: #f2f2f2;
+        text-align: left;
+    }
     .cve-table th:first-child, .cve-table td:first-child {
         width: 180px;
         white-space: nowrap;
     }
     .cve-table th:nth-child(2), .cve-table td:nth-child(2) {
-        width: 120px;
+        width: 100px;
         text-align: center;
     }
     .cve-table th:nth-child(3), .cve-table td:nth-child(3) {
-        width: 120px;
+        width: 100px;
         text-align: center;
     }
     .tag {
@@ -87,6 +96,7 @@ permalink: /lens/
         text-align: center;
         font-weight: bold;
     }
+    .tag.is-critical {
         background-color: #ff3860;
         color: #fff;
     }
@@ -105,6 +115,7 @@ permalink: /lens/
         margin-top: 20px;
         border-radius: 4px;
         font-style: italic;
+        text-align: left;
     }
   </style>
 </head>
@@ -322,7 +333,7 @@ permalink: /lens/
     </div>
     <div class="columns is-centered">
       <div class="column is-8">
-        <div class="content">
+        <div class="content has-text-centered">
           <p>
             &copy; 2026 Zhihuang Liu.
           </p>
