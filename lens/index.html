@@ -7,10 +7,10 @@ permalink: /lens/
 <head>
   <meta charset="utf-8">
   <meta name="description"
-        content="LENS: Exploring and Exploiting Security Vulnerabilities in Self-Hosted LLM Services">
+        content="Exploring and Exploiting Security Vulnerabilities in Self-Hosted LLM Services">
   <meta name="keywords" content="LENS, LLM Security, Self-Hosted LLM, Vulnerability Scanning">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>LENS: Exploring and Exploiting Security Vulnerabilities in Self-Hosted LLM Services</title>
+  <title>Exploring and Exploiting Security Vulnerabilities in Self-Hosted LLM Services</title>
 
   <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🔍</text></svg>">
   <link href="https://fonts.googleapis.com/css?family=Google+Sans|Noto+Sans|Castoro"
@@ -126,7 +126,7 @@ permalink: /lens/
     <div class="container is-max-desktop">
       <div class="columns is-centered">
         <div class="column has-text-centered">
-          <h1 class="title is-1 publication-title">LENS: Exploring and Exploiting Security Vulnerabilities in Self-Hosted LLM Services</h1>
+          <h1 class="title is-1 publication-title">Exploring and Exploiting Security Vulnerabilities in Self-Hosted LLM Services</h1>
           <div class="is-size-5 publication-authors">
             <span class="author-block">
               <a href="https://cristliu.github.io/">Zhihuang Liu</a><sup>1</sup>,</span>
@@ -218,85 +218,80 @@ permalink: /lens/
     <!--/ Abstract. -->
 
     <!-- Vulnerabilities. -->
-    <div class="columns is-centered">
-        <div class="column is-full-width">
-            <h2 class="title is-3 has-text-centered">Discovered Vulnerabilities (CVEs)</h2>
-            <div class="content">
-                <p>
-                    Our research uncovered significant security flaws in widely used self-hosted LLM platforms. Below is a list of the CVEs assigned to our findings, along with their CVSS severity ratings.
-                </p>
-                <div style="overflow-x: auto;">
-                    <table class="cve-table">
-                        <thead>
-                            <tr>
-                                <th>CVE ID</th>
-                                <th>CVSS Score</th>
-                                <th>Severity</th>
-                                <th>Description</th>
-                            </tr>
-                        </thead>
-                        <tbody>
-                             <tr>
-                                <td><strong>CVE-2025-56157</strong></td>
-                                <td>9.8</td>
-                                <td><span class="tag is-critical">Critical</span></td>
-                                <td>Dify versions up to and including 1.5.1 contain a critical security vulnerability where the PostgreSQL database is configured with hardcoded default credentials.</td>
-                            </tr>
-                            <tr>
-                                <td><strong>CVE-2025-63389</strong></td>
-                                <td>9.8</td>
-                                <td><span class="tag is-critical">Critical</span></td>
-                                <td><strong>Authentication Bypass in Ollama API.</strong> Critical vulnerability allowing unauthorized attackers to bypass authentication mechanism in the API.</td>
-                            </tr>
-                            <tr>
-                                <td><strong>CVE-2025-63390</strong></td>
-                                <td>9.1</td>
-                                <td><span class="tag is-critical">Critical</span></td>
-                                <td><strong>Authentication Bypass in AnythingLLM Workspaces.</strong> Logic flaw allowing attackers to bypass authentication checks for workspace access.</td>
-                            </tr>
-                            <tr>
-                                <td><strong>CVE-2025-63387</strong></td>
-                                <td>9.1</td>
-                                <td><span class="tag is-critical">Critical</span></td>
-                                <td><strong>Unauthenticated Access to System Features in Dify.</strong> Lack of access control allows unauthenticated attackers to invoke sensitive system functions.</td>
-                            </tr>
-                            <tr>
-                                <td><strong>CVE-2025-63391</strong></td>
-                                <td>8.2</td>
-                                <td><span class="tag is-high">High</span></td>
-                                <td><strong>Authentication Bypass in Open-WebUI.</strong> Failure to properly enforce authentication on configuration endpoints.</td>
-                            </tr>
-                             <tr>
-                                <td><strong>CVE-2025-63388</strong></td>
-                                <td>8.2</td>
-                                <td><span class="tag is-high">High</span></td>
-                                <td><strong>CORS Misconfiguration in Dify System Features Endpoint.</strong> Incorrect CORS configuration exposes system feature endpoints to cross-site attacks.</td>
-                            </tr>
-                             <tr>
-                                <td><strong>CVE-2025-63386</strong></td>
-                                <td>6.5</td>
-                                <td><span class="tag is-medium">Medium</span></td>
-                                <td><strong>CORS Misconfiguration in Dify.</strong> Weak Cross-Origin Resource Sharing (CORS) policy allows arbitrary domains to access sensitive resources.</td>
-                            </tr>
-                        </tbody>
-                    </table>
-                </div>
+    <h2 class="title is-3 has-text-centered">Discovered Vulnerabilities (CVEs)</h2>
+    <div class="content">
+        <p>
+            Our research uncovered significant security flaws in widely used self-hosted LLM platforms. Below is a list of the CVEs assigned to our findings, along with their CVSS severity ratings.
+        </p>
+        <div style="overflow-x: auto;">
+            <table class="cve-table">
+                <thead>
+                    <tr>
+                        <th>CVE ID</th>
+                        <th>CVSS Score</th>
+                        <th>Severity</th>
+                        <th>Description</th>
+                    </tr>
+                </thead>
+                <tbody>
+                     <tr>
+                        <td><strong>CVE-2025-56157</strong></td>
+                        <td>9.8</td>
+                        <td><span class="tag is-critical">Critical</span></td>
+                        <td>Dify versions up to and including 1.5.1 contain a critical security vulnerability where the PostgreSQL database is configured with hardcoded default credentials.</td>
+                    </tr>
+                    <tr>
+                        <td><strong>CVE-2025-63389</strong></td>
+                        <td>9.8</td>
+                        <td><span class="tag is-critical">Critical</span></td>
+                        <td><strong>Authentication Bypass in Ollama API.</strong> Critical vulnerability allowing unauthorized attackers to bypass authentication mechanism in the API.</td>
+                    </tr>
+                    <tr>
+                        <td><strong>CVE-2025-63390</strong></td>
+                        <td>9.1</td>
+                        <td><span class="tag is-critical">Critical</span></td>
+                        <td><strong>Authentication Bypass in AnythingLLM Workspaces.</strong> Logic flaw allowing attackers to bypass authentication checks for workspace access.</td>
+                    </tr>
+                    <tr>
+                        <td><strong>CVE-2025-63387</strong></td>
+                        <td>9.1</td>
+                        <td><span class="tag is-critical">Critical</span></td>
+                        <td><strong>Unauthenticated Access to System Features in Dify.</strong> Lack of access control allows unauthenticated attackers to invoke sensitive system functions.</td>
+                    </tr>
+                    <tr>
+                        <td><strong>CVE-2025-63391</strong></td>
+                        <td>8.2</td>
+                        <td><span class="tag is-high">High</span></td>
+                        <td><strong>Authentication Bypass in Open-WebUI.</strong> Failure to properly enforce authentication on configuration endpoints.</td>
+                    </tr>
+                     <tr>
+                        <td><strong>CVE-2025-63388</strong></td>
+                        <td>8.2</td>
+                        <td><span class="tag is-high">High</span></td>
+                        <td><strong>CORS Misconfiguration in Dify System Features Endpoint.</strong> Incorrect CORS configuration exposes system feature endpoints to cross-site attacks.</td>
+                    </tr>
+                     <tr>
+                        <td><strong>CVE-2025-63386</strong></td>
+                        <td>6.5</td>
+                        <td><span class="tag is-medium">Medium</span></td>
+                        <td><strong>CORS Misconfiguration in Dify.</strong> Weak Cross-Origin Resource Sharing (CORS) policy allows arbitrary domains to access sensitive resources.</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
 
-                <div class="ethical-note">
-                    <p>
-                        <strong>Ethical Disclosure:</strong> Note that we reported first to institutional authorities and affected vendors, then to CVE after awaiting remediation without adequate response.
-                    </p>
-                </div>
-                
-                <div class="ethical-note" style="border-left-color: #f14668; background-color: #feecf0;">
-                    <p>
-                        <strong>Ethical Usage:</strong> The findings and tools provided in this research are intended for educational and defensive purposes only. 
-                        <strong>Important: Only use the full framework on systems you own or have explicit permission to test. Unauthorized testing is illegal and unethical.</strong>
-                        See <a href="https://github.com/Cristliu/LENS">GitHub README</a> for full disclaimer.
-                    </p>
-                </div>
-
-            </div>
+        <div class="ethical-note">
+            <p>
+                <strong>Ethical Disclosure:</strong> Note that we reported first to institutional authorities and affected vendors, then to CVE after awaiting remediation without adequate response.
+            </p>
+        </div>
+        
+        <div class="ethical-note" style="border-left-color: #f14668; background-color: #feecf0;">
+            <p>
+                <strong>Ethical Usage:</strong> The findings and tools provided in this research are intended for educational and defensive purposes only. 
+                <strong>Important: Only use the full framework on systems you own or have explicit permission to test. Unauthorized testing is illegal and unethical.</strong>
+                See <a href="https://github.com/Cristliu/LENS">GitHub README</a> for full disclaimer.
+            </p>
         </div>
     </div>
     <!--/ Vulnerabilities. -->
