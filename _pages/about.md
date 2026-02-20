@@ -37,6 +37,7 @@ Zhihuang Liu is a Ph.D. candidate at the College of Computer Science and Technol
 <span class='anchor' id='news'></span>
 
 # 🎉 News
+- 2026.02: One paper titled **Risk-Aware Privacy Preservation for LLM Inference** has been accepted by **IEEE Transactions on Information Forensics and Security (CCF <span style="color:#dd0000">A</span>, JCR Q1, IF: 8.0, 中科院<span style="color:#dd0000">一区TOP</span>)**.
 - 2026.01: One paper has been accepted by **The Web Conference (WWW'26) (Core <span style="color:#dd0000">A*</span>, CCF <span style="color:#dd0000">A</span>, AR: <span style="color:#dd0000">20.1%</span> (676/3370))**.
 - 2025.12: Happy to announce that our 7 CVEs have received CVSSv3 scores (out of 10) of <span style="color:#dd0000">9.8 (Critical), 9.1 (Critical), 7.5 (High), 9.1 (Critical), 9.8 (Critical), 5.3 (Medium), 7.5 (High)</span> respectively! This highlights the severity of these vulnerabilities, warranting serious attention!
 - 2025.12: Our 7 CVEs have been officially **PUBLISHED** and are accessible. The IDs are: CVE-2025-56157, CVE-2025-63386, CVE-2025-63387, CVE-2025-63388, CVE-2025-63389, CVE-2025-63390, CVE-2025-63391. Check them out! *Note that we reported first to institutional authorities and affected vendors, then to CVE after awaiting remediation without adequate response.*
@@ -75,7 +76,7 @@ The 46th IEEE Symposium on Security and Privacy (S&P25)
 <div class='paper-box-text' markdown="1">
 
 **Exploring and Exploiting Security Vulnerabilities in Self-Hosted LLM Services**
-<p style="color:#006600"><span style="font-weight:bold">Zhihuang Liu</span>, Ling Hu, Yonghao Tang, Tongqing Zhou, Fang Liu, Zhiping Cai</p>
+<p style="color:#006600"><span style="font-weight:bold">Zhihuang Liu</span>, Ling Hu, Yonghao Tang, Tongqing Zhou*, Fang Liu, Zhiping Cai*</p>
 Proceedings of The Web Conference 2026 (WWW26)
 [[Paper]](https://cristliu.github.io/lens/) [[PDF]](pdfs/WWW26_LENS.pdf) [[Project]](https://cristliu.github.io/lens/) [[Code]](https://github.com/Cristliu/LENS)
 
@@ -84,7 +85,23 @@ Proceedings of The Web Conference 2026 (WWW26)
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIFS</div><img src='images/TIFS.png' alt="sym" width="100%"></div></div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIFS'26</div><img src='images/TIFS2026.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Exploring and Exploiting Security Vulnerabilities in Self-Hosted LLM Services**
+<p style="color:#006600"><span style="font-weight:bold">Zhihuang Liu</span>, Zhangdong Wang, Tongqing Zhou, Yonghao Tang, Yuchuan Luo*, Zhiping Cai*</p>
+IEEE Transactions on Information Forensics and Security
+[[Paper]](https://cristliu.github.io) [[PDF]](pdfs/TIFS26_RapLI.pdf) [[Project]](https://github.com/Cristliu/RapLI) [[Code]](https://github.com/Cristliu/RapLI)
+
+- The proposed Rap-LI is the first framework to enable risk-aware privacy preservation for LLM inference, mitigating the critical vulnerability of high-sensitivity data leakage in local differential privacy (LDP)-based prompt protection. It lays the groundwork for context-aware, personalized LDP in LLM inference, bridging the gap between theoretical guarantees and practical usability, and supporting plug-and-play, privacy-first protection for state-of-the-art LLMs.
+
+</div>
+</div>
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIFS'24</div><img src='images/TIFS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **SeCoSe: Toward Searchable and Communicable Healthcare Service Seeking in Flexible and Secure EHR Sharing**
@@ -98,7 +115,7 @@ IEEE Transactions on Information Forensics and Security
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TBD</div><img src='images/TBD.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TBD'25</div><img src='images/TBD.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Split Learning on Segmented Healthcare Data**
@@ -112,7 +129,7 @@ IEEE Transactions on Big Data
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">FGCS</div><img src='images/FGCS.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">FGCS'24</div><img src='images/FGCS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Blockchain and trusted reputation assessment-based incentive mechanism for healthcare services**
@@ -126,7 +143,7 @@ Future Generation Computer Systems
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT</div><img src='images/TCSVT.png' alt="sym" width="100%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT'25</div><img src='images/TCSVT.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **PPIDM: Privacy-Preserving Inference for Diffusion Model in the Cloud**
@@ -137,10 +154,10 @@ IEEE Transactions on Circuits and Systems for Video Technology
 - This paper proposes PPIDM (Privacy-Preserving Inference for Diffusion Models), a novel framework for diffusion model inference in cloud environments that mitigates both resource constraints and privacy risks.
 
 </div>
-</div>
+</div> -->
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TETC</div><img src='images/TETC.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TETC'23</div><img src='images/TETC.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **A Web Back-End Database Leakage Incident Reconstruction Framework Over Unlabeled Logs**
