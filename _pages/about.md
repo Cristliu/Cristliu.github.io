@@ -89,7 +89,7 @@ Proceedings of The Web Conference 2026 (WWW26)
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIFS'26</div><img src='images/TIFS2026.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Exploring and Exploiting Security Vulnerabilities in Self-Hosted LLM Services**
+**Risk-Aware Privacy Preservation for LLM Inference**
 <p style="color:#006600"><span style="font-weight:bold">Zhihuang Liu</span>, Zhangdong Wang, Tongqing Zhou, Yonghao Tang, Yuchuan Luo*, Zhiping Cai*</p>
 IEEE Transactions on Information Forensics and Security
 [[Paper]](https://cristliu.github.io) [[PDF]](pdfs/TIFS26_RapLI.pdf) [[Project]](https://github.com/Cristliu/RapLI) [[Code]](https://github.com/Cristliu/RapLI)
