@@ -92,7 +92,7 @@ Proceedings of The Web Conference 2026 (WWW26)
 **Risk-Aware Privacy Preservation for LLM Inference**
 <p style="color:#006600"><span style="font-weight:bold">Zhihuang Liu</span>, Zhangdong Wang, Tongqing Zhou, Yonghao Tang, Yuchuan Luo*, Zhiping Cai*</p>
 IEEE Transactions on Information Forensics and Security
-[[Paper]](https://cristliu.github.io) [[PDF]](pdfs/TIFS26_RapLI.pdf) [[Project]](https://github.com/Cristliu/RapLI) [[Code]](https://github.com/Cristliu/RapLI)
+[[Paper]](https://ieeexplore.ieee.org/document/11409403) [[PDF]](pdfs/TIFS26_RapLI.pdf) [[Project]](https://github.com/Cristliu/RapLI) [[Code]](https://github.com/Cristliu/RapLI)
 
 - The proposed Rap-LI is the first framework to enable risk-aware privacy preservation for LLM inference, mitigating the critical vulnerability of high-sensitivity data leakage in local differential privacy (LDP)-based prompt protection. It lays the groundwork for context-aware, personalized LDP in LLM inference, bridging the gap between theoretical guarantees and practical usability, and supporting plug-and-play, privacy-first protection for state-of-the-art LLMs.
 
