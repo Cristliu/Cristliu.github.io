@@ -122,7 +122,7 @@ IEEE Transactions on Information Forensics and Security
 <div class='paper-box-text' markdown="1">
 
 **Propagating Unsafe Actions in LLM Controlled Multi-Robot Collaboration via Single Robot Compromise**
-<p style="color:#006600">Zhen Huang<span style="font-weight:bold">Zhihuang Liu*</span>, Mengxuan Luo, Weishang Wu*, and Zhiping Cai*</p>
+<p style="color:#006600">Zhen Huang, <span style="font-weight:bold">Zhihuang Liu*</span>, Mengxuan Luo, Weishang Wu*, and Zhiping Cai*</p>
 The 35th International Joint Conference on Artificial Intelligence (IJCAI'26)
 [[Paper]](https://github.com/TheFatInsect/InfectBot) [[PDF]](pdfs/IJCAI26_Multi_Robot_Compromise.pdf) [[Project]](https://github.com/TheFatInsect/InfectBot) [[Code]](https://github.com/TheFatInsect/InfectBot)
 
