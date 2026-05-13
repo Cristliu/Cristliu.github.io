@@ -118,7 +118,7 @@ IEEE Transactions on Information Forensics and Security
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI'26</div><img src='images/IJCAI.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI'26</div><img src='images/IJCAI26.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Propagating Unsafe Actions in LLM Controlled Multi-Robot Collaboration via Single Robot Compromise**
