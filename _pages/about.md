@@ -37,8 +37,10 @@ Zhihuang Liu is a Ph.D. candidate at the College of Computer Science and Technol
 <span class='anchor' id='news'></span>
 
 # 🎉 News
+- 2026.05: One paper titled **Propagating Unsafe Actions in LLM Controlled Multi-Robot Collaboration via Single Robot Compromise** has been accepted by **International Joint Conference on Artificial Intelligence (IJCAI'26) (Core <span style="color:#dd0000">A*</span>, CCF <span style="color:#dd0000">B</span>)**. Congratulations to **Zhen Huang**, even though IJCAI was reclassified from CCF <span style="color:#dd0000">A</span> to CCF <span style="color:#dd0000">B</span> after our submission.
+- 2026.04: Our WWW'26 paper was selected for an **Oral** presentation. Yet regretfully, a notice issued in 2026.05 stated that the WWW conference, originally scheduled to be held in Dubai, would be moved online due to the regional situation.
 - 2026.02: One paper titled **Risk-Aware Privacy Preservation for LLM Inference** has been accepted by **IEEE Transactions on Information Forensics and Security (CCF <span style="color:#dd0000">A</span>, JCR Q1, IF: 8.0, 中科院<span style="color:#dd0000">一区TOP</span>)**.
-- 2026.01: One paper has been accepted by **The Web Conference (WWW'26) (Core <span style="color:#dd0000">A*</span>, CCF <span style="color:#dd0000">A</span>, AR: <span style="color:#dd0000">20.1%</span> (676/3370))**.
+- 2026.01: One paper titled **Exploring and Exploiting Security Vulnerabilities in Self-Hosted LLM Services** has been accepted by **The Web Conference (WWW'26) (Core <span style="color:#dd0000">A*</span>, CCF <span style="color:#dd0000">A</span>, AR: <span style="color:#dd0000">20.1%</span> (676/3370))**.
 - 2025.12: Happy to announce that our 7 CVEs have received CVSSv3 scores (out of 10) of <span style="color:#dd0000">9.8 (Critical), 9.1 (Critical), 7.5 (High), 9.1 (Critical), 9.8 (Critical), 5.3 (Medium), 7.5 (High)</span> respectively! This highlights the severity of these vulnerabilities, warranting serious attention!
 - 2025.12: Our 7 CVEs have been officially **PUBLISHED** and are accessible. The IDs are: CVE-2025-56157, CVE-2025-63386, CVE-2025-63387, CVE-2025-63388, CVE-2025-63389, CVE-2025-63390, CVE-2025-63391. Check them out! *Note that we reported first to institutional authorities and affected vendors, then to CVE after awaiting remediation without adequate response.*
 - 2025.12: Received appreciation for reviewing service and awarded **ACM Professional Membership**.
@@ -78,7 +80,7 @@ The 46th IEEE Symposium on Security and Privacy (S&P25)
 **Exploring and Exploiting Security Vulnerabilities in Self-Hosted LLM Services**
 <p style="color:#006600"><span style="font-weight:bold">Zhihuang Liu</span>, Ling Hu, Yonghao Tang, Tongqing Zhou*, Fang Liu, Zhiping Cai*</p>
 Proceedings of The Web Conference 2026 (WWW26)
-[[Paper]](https://cristliu.github.io/lens/) [[PDF]](pdfs/WWW26_LENS.pdf) [[Project]](https://cristliu.github.io/lens/) [[Code]](https://github.com/Cristliu/LENS)
+[[Paper]](https://dl.acm.org/doi/10.1145/3774904.3792097) [[PDF]](pdfs/WWW26_LENS.pdf) [[Project]](https://cristliu.github.io/lens/) [[Code]](https://github.com/Cristliu/LENS)
 
 - This paper contributes the first framework for systematic exploration and automated exploitation of security vulnerabilities in self-hosted LLM services. This work has been assigned multiple vulnerabilities rated at critical severity levels.
 
@@ -110,6 +112,22 @@ IEEE Transactions on Information Forensics and Security
 [[Paper]](https://ieeexplore.ieee.org/document/10506668) [[PDF]](pdfs/TIFS_SeCoSe_Healthcare_EHR.pdf) [[Project]](https://cristliu.github.io/) [[Code]](https://cristliu.github.io/)
 
 - This Paper proposes the first searchable and communicable proactive healthcare service seeking scheme (SeCoSe) in a blockchain-based EHR sharing system.
+
+</div>
+</div>
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI'26</div><img src='images/IJCAI.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Propagating Unsafe Actions in LLM Controlled Multi-Robot Collaboration via Single Robot Compromise**
+<p style="color:#006600">Zhen Huang<span style="font-weight:bold">Zhihuang Liu*</span>, Mengxuan Luo, Weishang Wu*, and Zhiping Cai*</p>
+The 35th International Joint Conference on Artificial Intelligence (IJCAI'26)
+[[Paper]](https://github.com/TheFatInsect/InfectBot) [[PDF]](pdfs/IJCAI26_Multi_Robot_Compromise.pdf) [[Project]](https://github.com/TheFatInsect/InfectBot) [[Code]](https://github.com/TheFatInsect/InfectBot)
+
+
+- This Paper proposes a novel attack paradigm for multi-robot system in which the adversary interacts with only a single entry robot. It reveals how adversarial control propagates through communication channels, leading to coordinated failures and system-scale disruption. The empirical evaluation across diverse scenarios confirms the feasibility and severity of single-point compromise attacks, providing quantitative evidence of the real-world implications.
 
 </div>
 </div>
