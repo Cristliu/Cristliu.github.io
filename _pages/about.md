@@ -16,7 +16,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Zhihuang Liu is a Ph.D. candidate at the College of Computer Science and Technology, National University of Defense Technology (NUDT), with an **<span style="color:#dd0000">expected graduation date of June 2026</span>**.
+Zhihuang Liu is completing his Ph.D. at the College of Computer Science and Technology, National University of Defense Technology (NUDT). After graduation, he will join the School of Informatics, Xiamen University as an Assistant Professor.
 
 <!-- He has published over 10 research papers, including in *IEEE Symposium on Security and Privacy (S\&P)*, *IEEE Transactions on Information Forensics and Security (TIFS)*, and *Future Generation Computer Systems (FGCS)*. He also serves as reviewer for IJCAI, AAAI, TSMC, JPDC, etc. -->
 
@@ -37,6 +37,7 @@ Zhihuang Liu is a Ph.D. candidate at the College of Computer Science and Technol
 <span class='anchor' id='news'></span>
 
 # 🎉 News
+- 2026.06: Happy to announce that our paper titled **What Users Ask, Policies Miss: Unveiling the Gap Between Community-Expressed Privacy Concerns and LLM Provider Policies** has been accepted by **The 35th USENIX Security Symposium (USENIX Security'26) (<span style="color:#dd0000">Top-tier</span> security conference, Core <span style="color:#dd0000">A*</span>, CCF <span style="color:#dd0000">A</span>, AR: approx. <span style="color:#dd0000">13%</span>)**. Delighted to receive my second paper in the Big Four before Ph.D. graduation.
 - 2026.05: One paper titled **Propagating Unsafe Actions in LLM Controlled Multi-Robot Collaboration via Single Robot Compromise** has been accepted by **International Joint Conference on Artificial Intelligence (IJCAI'26) (Core <span style="color:#dd0000">A*</span>, CCF <span style="color:#dd0000">B</span>)**. Congratulations to **Zhen Huang**, even though IJCAI was reclassified from CCF <span style="color:#dd0000">A</span> to CCF <span style="color:#dd0000">B</span> after our submission.
 - 2026.04: Our WWW'26 paper was selected for an **Oral** presentation. Yet regretfully, a notice issued in 2026.05 stated that the WWW conference, originally scheduled to be held in Dubai, would be moved online due to the regional situation.
 - 2026.02: One paper titled **Risk-Aware Privacy Preservation for LLM Inference** has been accepted by **IEEE Transactions on Information Forensics and Security (CCF <span style="color:#dd0000">A</span>, JCR Q1, IF: 8.0, 中科院<span style="color:#dd0000">一区TOP</span>)**.
@@ -60,6 +61,19 @@ Zhihuang Liu is a Ph.D. candidate at the College of Computer Science and Technol
 <span class='anchor' id='selected-publications--corresponding-author'></span>
 
 # 📝 Selected Publications (* Corresponding author)
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">USENIX Security'26</div><img src='images/Security26.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**What Users Ask, Policies Miss: Unveiling the Gap Between Community-Expressed Privacy Concerns and LLM Provider Policies**
+<p style="color:#006600"><span style="font-weight:bold">Zhihuang Liu</span>, Zhen Huang, Ling Hu, Yifan Yang, Zhiping Cai*</p>
+The 35th USENIX Security Symposium
+[[Paper]](https://www.researchgate.net/publication/406494902) [[PDF]](pdfs/Security26_LLMPrivacyGap.pdf) [[Project]](https://github.com/TheFatInsect/LLM-Privacy-Gap) [[Code]](https://github.com/TheFatInsect/LLM-Privacy-Gap)
+
+- This paper conducts the first large-scale, community-driven audit that links user-expressed LLM privacy concerns to provider-specific policy evidence. This work develops pioneering taxonomies of privacy concerns and privacy policy gaps, providing systematic evidence for understanding policy disclosure deficiencies and user perception barriers in current LLM privacy governance. It further proposes solutions to advance privacy governance and privacy-preserving technologies, laying an empirical foundation for subsequent privacy research and security regulation by relevant stakeholders.
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE SP'25</div><img src='images/SP25.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
