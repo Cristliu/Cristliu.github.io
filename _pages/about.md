@@ -226,7 +226,7 @@ IEEE Transactions on Emerging Topics in Computing
 - [2024.10, China] Generative AI‑Based Polymorphic‑Sensitive Puzzle Detection Method, Apparatus, and Device, ZL 2024 1 1089891.2. -->
 
 
-<span class='anchor' id='honors-and-awards'></span>
+<!-- <span class='anchor' id='honors-and-awards'></span>
 
 # 🎖️ Selected Awards
 
@@ -240,7 +240,7 @@ IEEE Transactions on Emerging Topics in Computing
 - [2020.12] Special Award for Outstanding New Student Scholarship, Fuzhou University. (优秀新生特等奖学金)
 - [2020.10] Third Prize (National), China Collegiate Computig Contest. (中国高校计算机大赛三等奖)
 - [2020.06] Excellent Graduate, Fuzhou University. (优秀毕业生)
-- [2019.12] National First Prize (Team Leader & Key Contributor), CCF Big Data & Computing Intelligence Contest. (CCF大数据与计算智能大赛全国一等奖)
+- [2019.12] National First Prize (Team Leader & Key Contributor), CCF Big Data & Computing Intelligence Contest. (CCF大数据与计算智能大赛全国一等奖) -->
 
 
 
