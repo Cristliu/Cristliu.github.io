@@ -16,7 +16,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Zhihuang Liu is completing his Ph.D. at the College of Computer Science and Technology, National University of Defense Technology (NUDT). After graduation, he will join the School of Informatics, Xiamen University as an Assistant Professor.
+Zhihuang Liu is an Assistant Professor at the School of Informatics, Xiamen University. He received his Ph.D. from the College of Computer Science and Technology, National University of Defense Technology (NUDT) in June 2026.
 
 <!-- He has published over 10 research papers, including in *IEEE Symposium on Security and Privacy (S\&P)*, *IEEE Transactions on Information Forensics and Security (TIFS)*, and *Future Generation Computer Systems (FGCS)*. He also serves as reviewer for IJCAI, AAAI, TSMC, JPDC, etc. -->
 
@@ -26,17 +26,18 @@ Zhihuang Liu is completing his Ph.D. at the College of Computer Science and Tech
 
 > *<span style="color:#006600">Highly Self-Motivated in pursuing anything Interesting and Worthwhile. <br/>Currently focused on research in Usable Security for AI systems (e.g., LLMs) with practical impact.</span>*
 
-<!-- <span class='anchor' id='educations'></span> -->
+<span class='anchor' id='educations'></span>
 
-<!-- # 📖 Educations
+# 📖 Educations
 
-- *2023.09 - now*, Ph.D. Candidate, National University of Defense Technology (Double First-Class, Project 985), Changsha, China.
-- *2020.09 - 2023.06*, Master, Fuzhou University (Double First-Class, Project 211), Fuzhou, China.
-- *2016.09 - 2020.06*, Bachelor, Fuzhou University (Double First-Class, Project 211), Fuzhou, China. -->
+- *2023.09 - 2026.06*, Ph.D., National University of Defense Technology (Double First-Class, Project 985), Changsha, China.
+- *2020.09 - 2023.06*, M.S., Fuzhou University (Double First-Class, Project 211; Postgraduate Recommendation), Fuzhou, China.
+- *2016.09 - 2020.06*, B.S., Fuzhou University (Double First-Class, Project 211), Fuzhou, China.
 
 <span class='anchor' id='news'></span>
 
 # 🎉 News
+- 2026.07: One paper titled **Comprehensive Measurement of IPv6 Inbound Source Address Validation Deployment via Global Counter Side-Channel** has been accepted by **IEEE Transactions on Networking (CCF <span style="color:#dd0000">A</span>, JCR Q1, IF: 5.3)**.
 - 2026.06: Happy to announce that our paper titled **What Users Ask, Policies Miss: Unveiling the Gap Between Community-Expressed Privacy Concerns and LLM Provider Policies** has been accepted by **The 35th USENIX Security Symposium (USENIX Security'26) (<span style="color:#dd0000">Top-tier</span> security conference, Core <span style="color:#dd0000">A*</span>, CCF <span style="color:#dd0000">A</span>, AR: approx. <span style="color:#dd0000">13%</span>)**. Delighted to receive my second paper in the Big Four before Ph.D. graduation.
 - 2026.05: One paper titled **Propagating Unsafe Actions in LLM Controlled Multi-Robot Collaboration via Single Robot Compromise** has been accepted by **International Joint Conference on Artificial Intelligence (IJCAI'26) (Core <span style="color:#dd0000">A*</span>, CCF <span style="color:#dd0000">B</span>)**. Congratulations to **Zhen Huang**, even though IJCAI was reclassified from CCF <span style="color:#dd0000">A</span> to CCF <span style="color:#dd0000">B</span> after our submission.
 - 2026.04: Our WWW'26 paper was selected for an **Oral** presentation. Yet regretfully, a notice issued in 2026.05 stated that the WWW conference, originally scheduled to be held in Dubai, would be moved online due to the regional situation.
@@ -221,12 +222,11 @@ IEEE Transactions on Emerging Topics in Computing
 - [2022.08, China] A Web Security Incident Forensics Method and System for Data Leakage, ZL 2021 1 0879142. X.
 - [2024.12, China] A Multi‑Party Constrained Privacy Visualization Method, Apparatus, and Device for Medical Data Sharing, ZL 2024 1 1089681.3.
 - [2024.11, China] Distributed Time‑Sequential Data Split Learning Method, Apparatus, and Computer Device, ZL 2024 1 1089563.2
+- [2024.11, China] Privacy‑Preserving Sorting Method, Apparatus, and Computer Device for Multi‑Institution Time‑Sequential Data, ZL 2024 1 1089805.8.
+- [2024.10, China] Generative AI‑Based Polymorphic‑Sensitive Puzzle Detection Method, Apparatus, and Device, ZL 2024 1 1089891.2.
 
-<!-- - [2024.11, China] Privacy‑Preserving Sorting Method, Apparatus, and Computer Device for Multi‑Institution Time‑Sequential Data, ZL 2024 1 1089805.8.
-- [2024.10, China] Generative AI‑Based Polymorphic‑Sensitive Puzzle Detection Method, Apparatus, and Device, ZL 2024 1 1089891.2. -->
 
-
-<!-- <span class='anchor' id='honors-and-awards'></span>
+<span class='anchor' id='honors-and-awards'></span>
 
 # 🎖️ Selected Awards
 
@@ -235,12 +235,10 @@ IEEE Transactions on Emerging Topics in Computing
 - [2024.08] Excellent Master Thesis, Fuzhou University. (优秀硕士论文)
 - [2023.08] Special Award in Master Comprehensive Scholarship, Fuzhou University. (硕士综合学业奖学金特等奖)
 - [2023.06] Excellent Graduate, Fuzhou University. (优秀毕业生)
-- [2023.02] Third Prize (National), CCF Big Data & Computing Intelligence Contest. (CCF大数据与计算智能大赛全国三等奖)
 - [2022.11] National Scholarship, Ministry of Education, China. (硕士研究生国家奖学金)
 - [2020.12] Special Award for Outstanding New Student Scholarship, Fuzhou University. (优秀新生特等奖学金)
-- [2020.10] Third Prize (National), China Collegiate Computig Contest. (中国高校计算机大赛三等奖)
 - [2020.06] Excellent Graduate, Fuzhou University. (优秀毕业生)
-- [2019.12] National First Prize (Team Leader & Key Contributor), CCF Big Data & Computing Intelligence Contest. (CCF大数据与计算智能大赛全国一等奖) -->
+- [2019.12] National First Prize (Team Leader & Key Contributor), CCF Big Data & Computing Intelligence Contest. (CCF大数据与计算智能大赛全国一等奖)
 
 
 
@@ -280,8 +278,4 @@ IEEE Transactions on Emerging Topics in Computing
 
 # 📬 Contact
 
-**Email:** lzhliu@nudt.edu.cn
-
-**WeChat:**
-
-<img src="/images/lzh_wechat.jpg" alt="WeChat QR Code" style="max-width:220px; margin-top:10px;">
+**Email:** herecristliu@gmail.com, lzhliu@nudt.edu.cn
