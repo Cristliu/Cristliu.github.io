@@ -16,7 +16,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Zhihuang Liu is an Assistant Professor at the School of Informatics, Xiamen University. He is a member of [SNGroup](https://github.com/sngroup-xmu), led by [Qiao Xiang](https://qiaoxiang.me/) ([Group Website](https://sngroup.org.cn/)). He received his Ph.D. from the College of Computer Science and Technology, National University of Defense Technology (NUDT) in June 2026 under the supervision of [Zhiping Cai](https://lab-ant.github.io/). During his master's studies, he was advised by Yanhua Liu.
+Zhihuang Liu is an Assistant Professor at the School of Informatics, Xiamen University. He is a member of [SNGroup](https://sngroup.org.cn/), led by [Qiao Xiang](https://qiaoxiang.me/). He received his Ph.D. from the College of Computer Science and Technology, National University of Defense Technology (NUDT) in June 2026 under the supervision of [Zhiping Cai](https://lab-ant.github.io/). During his master's studies, he was advised by Yanhua Liu.
 
 <!-- He has published over 10 research papers, including in *IEEE Symposium on Security and Privacy (S\&P)*, *IEEE Transactions on Information Forensics and Security (TIFS)*, and *Future Generation Computer Systems (FGCS)*. He also serves as reviewer for IJCAI, AAAI, TSMC, JPDC, etc. -->
 
